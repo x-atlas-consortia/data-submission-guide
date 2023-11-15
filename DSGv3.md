@@ -39,7 +39,7 @@ Click the provided links in this section to go to related portals or websites, o
 |Option | Comments |
 |----------------------------------------|-------------------------------------------------------------------|
 | • Create an entirely new protocol | Creating a new protocol from "scratch" at [protocols.io](http://protocols.io/)
-| • New version of an existing protocol |• Based on an existing protocol that you created  <br>• Based on an existing protocol that someone else created|
+| • New version of an existing protocol |• Based on an existing protocol that you created  <br>• Based on an existing protocol that _someone else_ created|
 
 <details>
 <summary>Details about creating new protocols</summary>
@@ -83,5 +83,18 @@ Click the provided links in this section to go to related portals or websites, o
 |--------------------------------------|-------------------------------------------------------------------|
 | 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
 | 2. Select  | **New Version > Create New Version > Edit New Version**|
+| 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|
+</details>
+
+<details>
+
+<summary>Details about updating a protocol someone else created</summary>
+
+### Create a new protocol based on someone else's Protocol 
+  
+|Step | Comments |
+|--------------------------------------|-------------------------------------------------------------------|
+| 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
+| 2. Select  |• **Copy/Fork > Make a Fork>** <br>• Select where to store the copied protocol <br> • Select **Edit New Fork>**|
 | 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|
 </details>

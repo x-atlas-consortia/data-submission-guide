@@ -30,13 +30,13 @@ Click the provided links in this section to go to related portals or websites, o
 |&nbsp; b. Organize protocols | • Break workflows into modules <br> • Create an overall protocol that references others <br> • See this Vanderbilt protocol as an example: [VU BIOMIC Kidney pipeline](https://dx.doi.org/10.17504/protocols.io.bfskjncw)
 |&nbsp; c. Create a New protocol| • Many templates are available <br>• Pick the DOI option when publishing
 |&nbsp; &nbsp; i. Publish a new protocol | • Use a template <br>• Include HuBMAP (or SenNet) and team name as keywords <br> • Publish the protocol <br> • For additional examples, see also:<br> &nbsp; • [HuBMAP Method Development Community](https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development) OR <br> &nbsp; • [SenNet Method Development Community](https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo)|
-|&nbsp; &nbsp; ii. Modify an existing protocol | • Open an existing protocol <br> • Use _Edit New Version_ or _Edit New Fork_ <br> • Follow steps to create and publish a new protocol. <br> • For detailed directions... |
+|&nbsp; &nbsp; ii. Modify a protocol | • Open an existing protocol <br> • Use _Edit New Version_ or _Edit New Fork_ <br> • Follow steps to create and publish a new protocol. <br> • For detailed directions... |
 
 [Back to top](#Data Submission Guide)
 
 ## Different ways to create a new protocol [protocols.io](http://protocols.io/)
 
-|Step | Comments |
+|Option | Comments |
 |----------------------------------------|-------------------------------------------------------------------|
 | • Create an entirely new protocol | Creating a new protocol from "scratch" at [protocols.io](http://protocols.io/)
 | • New version of an existing protocol |• Based on an existing protocol that you created  <br>• Based on an existing protocol that someone else created|
@@ -55,6 +55,7 @@ Click the provided links in this section to go to related portals or websites, o
 | 5. Rename the protocol | From “untitled protocol” to something more descriptive so the protocol saves properly.|
 | 6. A series of tabs displays... | Under the protocol title: (_Description, Guidelines..., Materials, etc._)  <br> • Fill in information for all tabs shown  <br> • Under _Description > Keywords_ enter your consortium and group (TMC, etc.)|
 | 7. Publishing | When you are satisfied that the protocol is complete: <br>• Select **MORE > Publish** <br>• Publishing is a multistep process (see below). |
+
 **IMPORTANT:** Once published, a protocol cannot be deleted or edited, only versioned.
 </details>
 <details>
@@ -70,4 +71,17 @@ Click the provided links in this section to go to related portals or websites, o
 | 4. Research study | Select _Research_ (most likely) or _Non-Research_.|
 | 5. Add workspaces | • _Show_ and _Share_ the protocol on the HuBMAP (or SenNet) Workspace.  <br> • You can also show or share the protocol on any other workspace, if desired. |
 | 6. Publish | Publish the protocol|
+</details>
+
+<details>
+
+<summary>Details about updating a protocol you created</summary>
+
+### Revise a Protocol you created previously
+  
+|Step | Comments |
+|--------------------------------------|-------------------------------------------------------------------|
+| 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
+| 2. Select  | **New Version > Create New Version > Edit New Version**|
+| 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|
 </details>

@@ -3,7 +3,7 @@ Complete the prerequisites listed below prior to registering donors and samples 
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
 
 |Step | Comments |
-|----------------------------------------|-------------------------------------------------------------------------|
+|:---------------------------------------|:------------------------------------------------------------------------|
 |1. Complete onboarding |• Register as a HuBMAP or SenNet member. <br> • Verify that you can successfully login to the [HuBMAP Consortium](https://hubmapconsortium.org/) or <br> [SenNet Consortium](https://sennetconsortium.org/) website. |
 |&nbsp; a. Request access: |• To any resources you will need.<br> • Add additional resources later by updating your HuBMAP or SenNet profile.
 |&nbsp; &nbsp; i. Data Portal |• [HuBMAP Data portal](http://portal.hubmapconsortium.org/) OR <br> • [SenNet Data Sharing Portal](http://data.sennetconsortium.org/) <br> These are separate from the HuBMAP and SenNet Consortium websites.|
@@ -22,7 +22,7 @@ Click the provided links in this section to go to related portals or websites, o
 ## Different ways to create a new protocol [protocols.io](http://protocols.io/)
 
 |Option | Comments |
-|----------------------------------------|-------------------------------------------------------------------|
+|:---------------------------------------|:------------------------------------------------------------------|
 | • Create an entirely new protocol | Creating a new protocol from "scratch" at [protocols.io](http://protocols.io/)
 | • New version of an existing protocol |• Based on an existing protocol that you created  <br>• Based on an existing protocol that _someone else_ created|
 
@@ -32,7 +32,7 @@ Click the provided links in this section to go to related portals or websites, o
 ### Creating an entirely new protocol (from "scratch"):
 
 |Step | Comments |
-|--------------------------------------|--------------------------------------------------------------------------|
+|:-------------------------------------|:-------------------------------------------------------------------------|
 | 1. Log into protocols.io | Use your protocols.io login registered with your consortium.|
 | 2. Select your Workspace | • Click the HuBMAP icon for the HuBMAP Workspace <br>• Click the SenNet icon for the SenNet Workspace <br> • If you do not see your icon you have not been added to the group <br> • Contact your helpdesk for assistance |
 | 3. Click the **NEW +**button | At the top and select **New protocol**|
@@ -49,7 +49,7 @@ Click the provided links in this section to go to related portals or websites, o
 ### Publishing your new protocol:
 
 |Step | Comments |
-|--------------------------------------|--------------------------------------------------------------------------|
+|:-------------------------------------|:-------------------------------------------------------------------------|
 | 1. Publish type | Select **With DOI**  <br> • **IMPORTANT:** HuBMAP and SenNet protocols MUST be assigned a DOI. <br> • This is required to register a donor (or source) and samples. <br> • This is required to submit assay metadata to the HIVE or CODCC.|
 | 2. Set authors | • Multiple authors may be added in order of importance. <br> • You can drag-and-drop authors to reorder. |
 | 3. Status | Select _Working, In Development,_ or _Other_.|
@@ -65,7 +65,7 @@ Click the provided links in this section to go to related portals or websites, o
 ### Revise a Protocol you created previously
   
 |Step | Comments |
-|--------------------------------------|-------------------------------------------------------------------|
+|:-------------------------------------|:------------------------------------------------------------------|
 | 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
 | 2. Select  | **New Version > Create New Version > Edit New Version**|
 | 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|
@@ -78,7 +78,7 @@ Click the provided links in this section to go to related portals or websites, o
 ### Create a new protocol based on someone else's Protocol 
   
 |Step | Comments |
-|--------------------------------------|-------------------------------------------------------------------|
+|:-------------------------------------|:------------------------------------------------------------------|
 | 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
 | 2. Select  |• **Copy/Fork > Make a Fork>** <br>• Select where to store the copied protocol <br> • Select **Edit New Fork>**|
 | 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|

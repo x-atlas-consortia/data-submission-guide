@@ -12,7 +12,7 @@
 **IMPORTANT** _Prerequisite:_ Before registering a sample or organ, the associated donor or source _must_ be registered. You also need the ID of the organ and the DOI (from <a href="http://protocols.io">protocols.io</a>) for the case selection protocol.
 
 |Step | Comments |
-|----------------------------------------|-------------------------------------------------------------------------|
+|:---------------------------------------|:------------------------------------------------------------------------|
 |2. Register an organ or sample | In addition to _organ_ there are 3 sample types: _Block, Section,_ and _Suspension._|
 |&nbsp; a. From the Navigation bar: | In HuBMAP select: <br> &nbsp; • REGISTER NEW > INDIVIDUAL > Sample; (used for both organs and samples). <br> &nbsp; • For organs - Select **Organ** from the _Tissue Sample Type_ drop down <br> &nbsp; • For samples - Select **Block, Section,** or **Suspension** from the _Tissue Sample Type_ drop down <br> In SenNet select: <br> &nbsp; • Create an Entity > Sample; (used for both organs and samples). <br> &nbsp; • Select the appropriate field from the _Sample Category_ drop-down: <br> &nbsp; &nbsp; &nbsp; ‣ Select from **block, section, suspension, bodily fluid, organ,** or **organ piece**. <br> &nbsp; • If <strong>organ</strong> is selected, select the <em>organ type</em> from the dropdown list.|
 |&nbsp; b. Record sample information | In HuBMAP, the _Source ID_ field represents the organ or sample’s parent, the donor. <br>In SenNet, the _Ancestor ID_ field represents the organ or sample’s source. |

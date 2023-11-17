@@ -2,7 +2,7 @@
 **NOTE:** We strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
 
 |Step | Comments |
-|----------------------------------------|-------------------------------------------------------------------------|
+|:---------------------------------------|:------------------------------------------------------------------------|
 |1. Register a donor or source | Register a donor via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. <br> &nbsp; • A <em>donor</em> in HuBMAP is an individual from which organs and samples originate. <br> Register a source via <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing Portal</a>. <br> &nbsp; • A <em>source</em> in SenNet is the organism being studied.|
 |&nbsp; a. Search for the donor <br> &nbsp; &nbsp; &nbsp; or source:| Verify that the donor or source has not already been registered.|
 |&nbsp; b. From the Navigation bar: | &nbsp; •  In HuBMAP select: REGISTER NEW > INDIVIDUAL > Donor <br> &nbsp; •  In SenNet select: Create an Entity > Source|

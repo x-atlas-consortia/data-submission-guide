@@ -30,4 +30,5 @@ When registering an organ (sample) on HuBMAP or SenNet which is supported in the
 |&nbsp; **‣ Inspecting placed blocks** | Click the **Previously Registered Blocks** toggle button in the left pane. <br> &nbsp; • This lets you inspect tissue blocks you placed before (for reference).|
 |&nbsp; &nbsp; a. Click the toggle button | To show all previously registered tissue blocks based on your browser’s local cache. <br> &nbsp; • This feature is supported in most browsers. |
 |&nbsp; &nbsp; b. Radio buttons (3D pane) | Change the perspective using these radio buttons.|
-
+|&nbsp; &nbsp; c. 3D Preview mode | To verify placement, switch to this mode using the corresponding toggle switch at the top of the 3D pane.|
+|&nbsp; Click **Register Location** | Review your registration data, then click the **Register Location** button. <br> &nbsp; • Your data will be saved and shared and the RUI window will close automatically. |

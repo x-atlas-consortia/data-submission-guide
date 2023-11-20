@@ -17,9 +17,11 @@ Click the provided links in this section to go to related portals or websites, o
 |&nbsp; b. Organize protocols | • Break workflows into modules <br> • Create an overall protocol that references others <br> • See this Vanderbilt protocol as an example: [VU BIOMIC Kidney pipeline](https://dx.doi.org/10.17504/protocols.io.bfskjncw)
 |&nbsp; c. Create a New protocol| • Many templates are available <br>• Pick the DOI option when publishing
 |&nbsp; &nbsp; i. Publish a new protocol | • Use a template <br>• Include HuBMAP (or SenNet) and team name as keywords <br> • Publish the protocol <br> • For additional examples, see also:<br> &nbsp; • [HuBMAP Method Development Community](https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development) OR <br> &nbsp; • [SenNet Method Development Community](https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo)|
-|&nbsp; &nbsp; ii. Modify a protocol | • Open an existing protocol <br> • Use _Edit New Version_ or _Edit New Fork_ <br> • Follow steps to create and publish a new protocol. <br> • For detailed directions... |
+|&nbsp; &nbsp; ii. Modify a protocol | • Open an existing protocol <br> • Use _Edit New Version_ or _Edit New Fork_ <br> • Follow steps to create and publish a new protocol. <br> • For detailed directions
 
-## Different ways to create a new protocol [protocols.io](http://protocols.io/)
+<br>
+
+### Different ways to create a new protocol [protocols.io](http://protocols.io/)
 
 |Option | Comments |
 |:---------------------------------------|:------------------------------------------------------------------|

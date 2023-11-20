@@ -29,4 +29,4 @@
 
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|
-|&nbsp; 4. Extras directory <br>  &nbsp; &nbsp; (optional) | (<span style="background-color: aquamarine">Clinical</span> and Non-Clinical) <br> Use this optional directory for any other files your team wants to include; **NOTE:** The contents of this directory <br> will not be vetted by the HIVE. **IMPORTANT** - Do NOT include TMC-processed data in the extras directory.|
+|&nbsp; 4. Extras directory (optional) | (<span style="background-color: aquamarine">Clinical</span> and Non-Clinical) <br> Use this optional directory for any other files your team wants to include. <br> **NOTE:** The contents of this directory will not be vetted by the HIVE. <br> **IMPORTANT** - Do NOT include TMC-processed data in the extras directory.|

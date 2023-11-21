@@ -48,3 +48,24 @@ These statuses display in the ingestion portal as a data set is processed.
 |&nbsp; &nbsp; d. Other imaging data: | SPRM |
 
 Additional pipelines will be added over time, as needed. Pipelines are available for download use by others, including TMCs. <br> **NOTE:** Generally, TMCs are not involved with pipelines, but may be contacted if an error occurs.
+
+<details>
+<summary>Details about Datasett6g Statuses </summary>
+
+### Dataset Statuses 
+
+These statuses apply to datasets created from a data upload. Once a data upload has been reorganized into datasets, each dataset passes through the system, ideally progressing from New to QA to Approved.
+
+#### Dataset Flow Diagram 
+![flow diagram](DatasetFlow.png)
+
+| Status | Explanation / Comments |
+|:---------------------|:----------------------------------------------------|
+| **New** | Data upload reorganized, broken into datasets, and status set to _New_. Data curation kicks off automated processes. If successful, status changes to _QA_. If these processes fail, the status changes to _Invalid_..|
+| **QA** | Dataset is ready for pipeline processing OR for Provider approval (if no pipeline processing is needed). Status changes to <em>Processing</em> when data curation presses the “Validate” button.|
+| **Processing** |The data upload is being processed and is not editable. A transient state (between other states) while automated processes act on the upload.|
+| **Approved** | Every data upload is reorganized into data sets. This is a semi-automated process. If the data upload is valid, data curation can kick off this process.|
+| **Abandoned** | Data upload submitted for validation and processing by the HIVE or CODCC. The data upload can be automatically or manually ingested. Status changes to _Processing_ when data curation presses the “Validate” button. |
+| **Invalid** | The data upload did not pass HIVE (or CODCC) validation or a failure occurred during processing. Someone from the HIVE (or CODCC) will contact the data submitter to address this status. |
+| **Error** | An (unspecified) error occurred during HIVE or CODCC processing. |
+</details>

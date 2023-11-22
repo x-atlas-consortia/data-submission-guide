@@ -35,7 +35,7 @@ These statuses display in the ingestion portal as a data set is processed.
 |:---------------------|:----------------------------------------------------|
 |&nbsp; 1. Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <br> &nbsp; &nbsp; &nbsp; <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> | Once all the files associated with an upload have been uploaded. <br> This lets them know that the upload is ready for ingestion (not an automated process). <br> **IMPORTANT:** Include the _root path(s)_ of the specific data upload(s) in the email. |
 |&nbsp; 2. The HIVE (or CODCC) extracts | Each data upload, corresponding data, and registers them as individual datasets. |
-|&nbsp; 3. The HIVE (or CODCC) processes | The data and metadata that you have uploaded for ingestion. If ingestion fails, or if additional <br> information is needed, the data provider will be contacted using the ticketing system.|
+|&nbsp; 3. The HIVE (or CODCC) processes | The data and metadata that you have uploaded for ingestion. If ingestion fails, or if additional information is needed, the data provider will be contacted using the ticketing system.|
 
 <span style="background-color: aquamarine"> **NOTE:** For Clinical assay data, the Pitt team will de-identify this data and submit the scrubbed data to the HIVE / CODCC. The provider of the data will need to review and approve the release of the de-identified data in the <a href="#publication">publish step</a>.</span>
 

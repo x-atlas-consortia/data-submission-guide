@@ -7,31 +7,34 @@ Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _
     <li> Getting started </li> 
         <ul>
             <li>HuBMAP members:</li>
+              <ul>
               <li>On the <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a></li>
               <li>Register a single donor, sample, dataset, or publication or bulk register samples or data.</li> 
+              </ul>
             <li>SenNet members: </li>
+              <ul>
               <li>On the <a href="http://data.sennetconsortium.org/search">SenNet Data Sharing portal</a></li> 
               <li>Register a single source, sample, dataset, or publication or bulk register samples or data.</li>
+              </ul>
           </ul>
     <li>From the Navigation bar:</li>
         <ul>
-           <li>HuBMAP members select REGISTER NEW > BULK  > Data </li>
-           <li>SenNet members select: Create an Entity > Data </li> 
+           <li>HuBMAP members select <b>REGISTER NEW > BULK  > Data </b></li>
+           <li>SenNet members select: <b>Create an Entity > Data </b></li> 
            <li>This action initiates the data upload process.</li>
          </ul>
      <li>Complete the required fields - Select a title that both you and the HIVE or CODCC can use to recognize <br> the data upload. </li>
-     <li>Click **Create**  - This creates a Globus folder where you upload your dataset files. </li>
+     <li>Click <b>Create</b> - This creates a Globus folder where you upload your dataset files. </li>
      <li>Need to add or modify files? - Follow the highlighted Globus link. </li>
         <ul>
-            <li>**Save**:  To make changes to the _Title_ or _Description_ fields use the **Save** button.</li>
-            <li>**Submit**: Click **Submit** once all data has been uploaded to Globus.</li> 
+            <li><b>Save:</b>  To make changes to the <em>Title</em> or <em>Description</em> fields use the <b>Save</b> button.</li>
+            <li><b>Submit:</b> Click <b>Submit</b> once all data has been uploaded to Globus.</li> 
             <li>Contact the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> if further processing by the HIVE is needed. </li>
             <li>Contact the <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> if further processing by the CODCC is needed. </li>
        </ul>
 </ol>
 
-
-This section is for <span style="background-color: aquamarine">Clinical</span> Assays only:
+This section is for <mark>Clinical</mark> Assays only:
 
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|

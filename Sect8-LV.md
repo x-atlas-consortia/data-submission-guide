@@ -1,7 +1,6 @@
 ## Section 8 - Creating a Data Upload Directory
 
-Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _Prerequisite:_ The submission directory has been successfully validated locally. <span style="background-color: aquamarine;"> _Highlighted items apply to Clinical assays only_.</span>
-
+Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _Prerequisite:_ The submission directory has been successfully validated locally.
 <p>
 <ol>
     <li> Getting started </li> 
@@ -34,8 +33,9 @@ Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _
        </ul>
 </ol>
 
-This section is for <mark>Clinical</mark> Assays only:
+This section is for Clinical Assays only:
 
+<hr>
 <ol>
     <li> Email the Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</li>
     <ul>
@@ -46,4 +46,4 @@ This section is for <mark>Clinical</mark> Assays only:
     <li> Upload your data as compressed / zipped folders, using Globus.</li>
 </ol>
 
-**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded.</span>
+**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded.

@@ -2,6 +2,34 @@
 Complete the prerequisites listed below prior to registering donors and samples or uploading any data.
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
 
+<ol>
+  <li>Complete onboarding for your consortium. </li>
+  <ul>
+    <li> Register as a HuBMAP or SenNet member.</li>
+    <li> Verify that you can successfully login to the <a href="https://hubmapconsortium.org/"> HuBMAP Consortium</a> or <a href="https://sennetconsortium.org/"> SenNet Consortium</a> website. </li>
+  </ul>
+    <ol>
+      <li> Request access to portals or other resources you will need.</li>
+      <ul> 
+        <li> Add additional resources later by updating your HuBMAP or SenNet profile.</li>
+      </ul>
+        <ol>
+            <li> <a href="http://portal.hubmapconsortium.org">HuBMAP Data portal</a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal</a> - These are separate from the HuBMAP and SenNet Consortium websites.</li>
+            <li> <a href="https://www.globus.org/">Globus</a> </li>
+            <ul> 
+            <b> IMPORTANT!</b>
+               <li> Your Globus ID must be either an institutional ID or an <a href="https://www.era.nih.gov/"> eRA Commons </a> ID. </li>
+               <li> <a href="https://docs.globus.org/how-to/link-to-existing/">Check that your institution ID is linked</a> to your Globus ID.</li>
+               <li> See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.</li>
+            </ul>
+            <li> <em>Write</em> access to your team's Globus folder. This will be granted <em>after</em> confirming that you will submit data via the<a href="http://ingest.hubmapconsortium.org/"> HuBMAP ingest portal </a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal </a> (required).</li>
+        <ol>
+    </ol>
+</ol>
+
+
+<p> </p>
+
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|
 |1. Complete onboarding |• Register as a HuBMAP or SenNet member. <br> • Verify that you can successfully login to the [HuBMAP Consortium](https://hubmapconsortium.org/) or <br> [SenNet Consortium](https://sennetconsortium.org/) website. |

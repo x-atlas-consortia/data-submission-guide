@@ -36,9 +36,14 @@ Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _
 
 This section is for <mark>Clinical</mark> Assays only:
 
-|Step | Comments |
-|:---------------------------------------|:------------------------------------------------------------------------|
-|&nbsp; <span style="background-color: aquamarine">1. Email the <br> &nbsp; &nbsp; &nbsp;  <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR </span> <br> &nbsp; &nbsp; &nbsp; <span style="background-color: aquamarine"><a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a></span> | <span style="background-color: aquamarine"> When ready to upload. <br> &nbsp; &nbsp; • Be sure to use an institutional email address (e.g. _name@institution.edu)_. <br> &nbsp; &nbsp; • The Help desk relays this request for space on the protected endpoint to the Pitt team. <br> &nbsp; &nbsp; • The Pitt team provides the assay team with the protected data endpoint.</span> |
-&nbsp; <span style="background-color: aquamarine">2. Upload your data </span> | <span style="background-color: aquamarine"> &nbsp; &nbsp; • Upload data as compressed / zipped folders, using Globus.|
+<ol>
+    <li> Email the Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</li>
+    <ul>
+        <li> Be sure to use an institutional email address (e.g. <em>name@institution.edu).</em></li>
+        <li> The Help desk relays this request for space on the protected endpoint to the Pitt team.</li>
+        <li> The Pitt team provides the assay team with the protected data endpoint.</li>
+    </ul>
+    <li> Upload your data as compressed / zipped folders, using Globus.</li>
+</ol>
 
 **IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded.</span>

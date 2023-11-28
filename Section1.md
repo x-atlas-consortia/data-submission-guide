@@ -146,13 +146,7 @@ Click the provided links in this section to go to related portals or websites, o
    - Click on the protocol to select it.
 2. Select **New Version > Create New Version > Edit New Version**.
 3. Re-publish - Make any changes needed and republish the protocol.
-   - The process is virtually identical to the <a href="Create-New-Protocol">Create a new Protocol</a> process.
-  
-|Step | Comments |
-|:-------------------------------------|:------------------------------------------------------------------|
-| 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
-| 2. Select  | **New Version > Create New Version > Edit New Version**|
-| 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|
+   - The process is virtually identical to the <a href="https://github.com/hubmapconsortium/data_submission_guide/edit/main/Section1.md/#Create-New-Protocol">Create a new Protocol</a> process.
 </details>
 
 <details>

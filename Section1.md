@@ -1,7 +1,7 @@
 ## Section 1 - Prerequisites
 Complete the prerequisites listed below prior to registering donors and samples or uploading any data.
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
-
+<hr>
 <ol>
   <li>Complete onboarding for your consortium. </li>
   <ul>
@@ -29,7 +29,7 @@ Click the provided links in this section to go to related portals or websites, o
               <li> <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a> (required for SenNet).</li>
               <li> Provide your protocols.io email account if you will be creating protocols for your team. </li>
             </ul>
-            <li> NIH's <a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login">dbGaP - For sequencing data, if applicable. </a></li>
+            <li> NIH's <a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login">dbGaP </a>- For sequencing data, if applicable. </li>
             <ul>
               <li> Sequencing data will be submitted here after your data is published.</li>
             </ul>
@@ -37,9 +37,50 @@ Click the provided links in this section to go to related portals or websites, o
           <li> Submit preliminary documentation:</li>
           <ul>
             <li> <a href="https://hubmapconsortium.org/wp-content/uploads/2020/06/DUA_FINAL_2020_02_03_for_Signature.pdf">Data use</a> and <a href="https://hubmapconsortium.org/wp-content/uploads/2020/08/MTA.pdf">material transfer</a> agreements.</li>
-            <li> See also the <em>Onboarding Checklist</em> in the <a href="https://docs.google.com/document/d/1ew6erXdwt38b8reiiH38NUeab4TD5ot-nv59M444j0Y/edit#heading=h.ym9gyx39h7t3">HuBMAP New User Guide</a>.</li>
+           <li> See also the <em>Onboarding Checklist</em> in the <a href="https://docs.google.com/document/d/1ew6erXdwt38b8reiiH38NUeab4TD5ot-nv59M444j0Y/edit#heading=h.ym9gyx39h7t3">HuBMAP New User Guide</a>.</li>
           </ul>
     </ol>
+<li> Register experimental protocol(s) via <a href="https://www.protocols.io/welcome">protocols.io</a>.</li>
+      <ul>
+        <li> Each registered protocol requires a digital object identifier (DOI).</li>
+      </ul>
+      <ol>
+        <li> Initial setup</li>
+        <ul>
+          <li> Select a lead and create accounts.</li>
+          <li> Create a workspace for your team (TMC, TTD, RTI, DP, etc).</li>
+        </ul>
+        <li> Organize your protocols</li>
+        <ul>
+          <li> Break workflows into modules.</li>
+          <li> Create an overall protocol that references others.</li>
+          <li> See this Vanderbilt protocol as an example: <a href="https://dx.doi.org/10.17504/protocols.io.bfskjncw">VU BIOMIC Kidney pipeline</a></li>
+        </ul>
+        <li> Create a New protocol</li>
+        <ul>
+          <li> Many templates are available</li>
+          <li> Pick the DOI option when publishing.</li>
+        </ul>
+        <ol>
+          <li> Create / publish a new protocol</li>
+          <ul>
+            <li> Use a template</li>
+            <li> Include HuBMAP (or SenNet) and team name as keywords.</li>
+            <li> Publish the protocol</li>
+            <li> For additional examples, see also:</li>
+            <ul>
+              <li> <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a> OR</li>
+              <li> <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a></li>
+            </ul>
+          </ul>
+          <li> Modify an existing protocol</li>
+          <ul>
+            <li> Open an existing protocol.</li>
+            <li> Use <em>Edit New Version</em> or <em>Edit New Fork</em>.</li>
+            <li> Follow steps to create and publish a new protocol.</li>
+            <li> For detailed directions, see <em>"Creating a New Protocol..."</em> or related sections below.</li>
+          </ul>
+        </ol>
 </ol>
 
 

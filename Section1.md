@@ -23,7 +23,22 @@ Click the provided links in this section to go to related portals or websites, o
                <li> See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.</li>
             </ul>
             <li> <em>Write</em> access to your team's Globus folder. This will be granted <em>after</em> confirming that you will submit data via the<a href="http://ingest.hubmapconsortium.org/"> HuBMAP ingest portal </a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal </a> (required).</li>
-        <ol>
+            <li> <a href="http://protocols.io">Protocols.io</a></li>
+            <ul>
+              <li> <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a> (required for HuBMAP).</li>
+              <li> <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a> (required for SenNet).</li>
+              <li> Provide your protocols.io email account if you will be creating protocols for your team. </li>
+            </ul>
+            <li> NIH's <a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login">dbGaP - For sequencing data, if applicable. </a></li>
+            <ul>
+              <li> Sequencing data will be submitted here after your data is published.</li>
+            </ul>
+          </ol>
+          <li> Submit preliminary documentation:</li>
+          <ul>
+            <li> <a href="https://hubmapconsortium.org/wp-content/uploads/2020/06/DUA_FINAL_2020_02_03_for_Signature.pdf">Data use</a> and <a href="https://hubmapconsortium.org/wp-content/uploads/2020/08/MTA.pdf">material transfer</a> agreements.</li>
+            <li> See also the <em>Onboarding Checklist</em> in the <a href="https://docs.google.com/document/d/1ew6erXdwt38b8reiiH38NUeab4TD5ot-nv59M444j0Y/edit#heading=h.ym9gyx39h7t3">HuBMAP New User Guide</a>.</li>
+          </ul>
     </ol>
 </ol>
 

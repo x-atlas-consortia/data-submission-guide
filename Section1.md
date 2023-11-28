@@ -97,7 +97,7 @@ Click the provided links in this section to go to related portals or websites, o
 <details>
 <summary>Details about creating New Protocols</summary>
 
-### Creating an entirely new protocol (from "scratch"):
+<h3 id="Create-New-Protocol">Creating an entirely new protocol (from "scratch"):</h3>
 
 1. Log into protocols.io Using your protocols.io login registered with your consortium.
 2. Select your Workspace:
@@ -141,6 +141,12 @@ Click the provided links in this section to go to related portals or websites, o
 <summary>Details about updating a protocol you created</summary>
 
 ### Revise a Protocol you created previously
+
+1. Navigate to the protocol on [protocols.io](http://protocols.io/).
+   - Click on the protocol to select it.
+2. Select **New Version > Create New Version > Edit New Version**.
+3. Re-publish - Make any changes needed and republish the protocol.
+   - The process is virtually identical to the <a href="Create-New-Protocol">Create a new Protocol</a> process.
   
 |Step | Comments |
 |:-------------------------------------|:------------------------------------------------------------------|

@@ -154,10 +154,13 @@ Click the provided links in this section to go to related portals or websites, o
 <summary>Details about updating a protocol someone else created</summary>
 
 ### Create a new protocol based on someone else's Protocol 
+
+1. Navigate to the protocol on [protocols.io](http://protocols.io/).
+   - Click on the protocol to select it.
+2. Select **Copy/Fork > Make a Fork**
+   - Select where to store the copied protocol
+   - Select **Edit New Fork**
+4. Re-publish - Make any changes needed and republish the protocol.
+   - The process is virtually identical to the <a href="https://github.com/hubmapconsortium/data_submission_guide/edit/main/Section1.md/#Create-New-Protocol">Create a new Protocol</a> process.
   
-|Step | Comments |
-|:-------------------------------------|:------------------------------------------------------------------|
-| 1. Navigate to the protocol | On [protocols.io](http://protocols.io/), click on the protocol to select it.|
-| 2. Select  |• **Copy/Fork > Make a Fork>** <br>• Select where to store the copied protocol <br> • Select **Edit New Fork>**|
-| 3. Re-publish |• Make any changes needed and republish <br>• The process is virtually identical to the [Create a new Protocol Process](https://hubmapconsortium.org/data-submission-guide-2/?visual=iframe#newprotocol).|
 </details>

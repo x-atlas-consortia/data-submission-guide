@@ -1,6 +1,46 @@
 ## Section 2 - Registering Donors or Sources, Organs, and Samples
 **NOTE:** We strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
 
+<ol>
+  <li>Register a donor or source</li>
+  <ul>
+   <li>Register a donor via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. A <em>donor</em> in HuBMAP is an individual from which organs and samples originate.</li>
+   <li>Register a source via <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing Portal</a>. A <em>source</em> in SenNet is the organism being studied.</li>
+  </ul>
+    <ol>
+    <li>Search for the donor or source: Verify that the donor or source has not already been registered.</li>
+    <li>From the Navigation bar select:</li>
+      <ul>
+        <li>In HuBMAP: <b>REGISTER NEW > INDIVIDUAL > Donor</b> </li>
+        <li>In SenNet: <b>Create an Entity > Source</b></li>
+      </ul>
+    <li> Record donor or source information. Do <em>NOT</em> include <a href="https://ingest.hubmapconsortium.org/new/donor">protected health information</a> about a donor or source, organ, or specimen.</li>
+    <li> Complete registration of ther Donor or source:</li>
+      <ul>
+        <li> In HuBMAP click <b>Generate ID</b> to complete the registration process.</li>
+        <li> In SenNet click <b>Submit</b> to complete the registration process.</li>
+      </ul>
+     </ol>
+  <br />
+  <li> Register an organ or sample. In addition to <em>organ</em> there are 3 sample types: <em>Block, Section,</em> and <em>Suspension</em>.</li>
+  <br />
+ <b>IMPORTANT</b> <em>Prerequisite:</em> Before registering a sample or organ, the associated donor or source <em>must</em> be registered. You also need the ID of the organ and the DOI (from <a href="http://protocols.io">protocols.io</a>) for the case selection protocol.
+  <br />
+  <ol>
+    <li> From the Navigation bar select:</li>
+    <ul>
+      In HuBMAP:
+      <li> <b>REGISTER NEW > INDIVIDUAL > Sample</b> (used for both organs and samples).</li>
+      <li> For organs - Select <b>Organ</b> from the <em>Tissue Sample Type</em> drop down. </li>
+      <li> For samples - Select <b>Block, Section,</b> or <b>Suspension</b> from the <em>Tissue Sample Type</em> drop down</li>
+      In SenNet:
+      <li> <b>Create an Entity > Sample</b> (used for both organs and samples).</li>
+      <li> Select the appropriate field from the <em>Sample Category<em> drop-down:</li>
+      <li> Select from <b>block, section, suspension, bodily fluid, organ,</b> or <b>organ piece</b>.</li>
+      <li> </li>
+    </ul>
+  </ol>
+   
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|
 |1. Register a donor or source | Register a donor via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. <br> &nbsp; • A <em>donor</em> in HuBMAP is an individual from which organs and samples originate. <br> Register a source via <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing Portal</a>. <br> &nbsp; • A <em>source</em> in SenNet is the organism being studied.|

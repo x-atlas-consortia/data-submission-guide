@@ -1,6 +1,16 @@
 ## Section 3 - Add Metadata for an Organ or Samples
 Click the provided links in this section to access additional relevant information or resources.
 
+<ol>
+  <li> Download metadata template(s): Access lists of metadata schemas (and related information) from HuBMAP’s <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page.</li>
+  <b>Note:</b> Many HuBMAP metadata schemas are shared by SenNet. The <a href="https://docs.sennetconsortium.org/libraries/ingest-validation-tools/schemas/source-murine">murine source schema</a> is <em>unique</em> to SenNet. 
+  <ul>
+    <li> Download and complete Excel metadata template(s) for organ or sample types:</li>
+  </ul>
+</ol>
+
+
+
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|
 |1. Download template(s) | Access lists of metadata schemas (and related information) from HuBMAP’s <br> <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page. **Note:** Many HuBMAP metadata schemas are <br> shared by SenNet. The <a href="https://docs.sennetconsortium.org/libraries/ingest-validation-tools/schemas/source-murine">murine source schema</a> is <em>unique</em> to SenNet. <br> Download and complete Excel metadata template(s) for organ or sample types: <br> &nbsp; &nbsp;  • <a href="https://hubmapconsortium.github.io/ingest-validation-tools/organ/">organ</a> <br> &nbsp; &nbsp;  • <a href="https://hubmapconsortium.github.io/ingest-validation-tools/sample-block/">sample - block</a> <br> &nbsp; &nbsp;  • <a href="https://hubmapconsortium.github.io/ingest-validation-tools/sample-section/">sample - section</a> <br> &nbsp; &nbsp;  • <a href="https://hubmapconsortium.github.io/ingest-validation-tools/sample-suspension/">sample - suspension</a> <br> Click on any assay or sample type on the lists to jump to a page for that type. <br> &nbsp; &nbsp;  • Select the <b>Excel template</b> on that page. |

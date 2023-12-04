@@ -33,6 +33,23 @@ _Public version_:
    _Ingest portal version_: The organ is pre-selected.
 4. Click **Start Registration** to complete this step and display the CCF Registration page. 
 
+### Tissue Placement
+ **TIP:** First time using the RUI? Review the _Description of the User Interface (UI)_ section in the <a href="https://zenodo.org/record/6628366#.ZAYfdXbMJD8">SOP</a>.
+
+**Adjusting opacity:** 
+   - All anatomical structures are set to **20%** opacity by default.
+   - This makes “looking inside” reference organs easier.
+   - Use the _Anatomical Structures_ accordion menu in the left (metadata) pane to adjust the opacity.
+
+**Resizing a tissue block**
+   - Use the _Tissue Block Dimensions_ text input fields in the top right corner.
+   - The default is a **10 x 10 x 10 mm** (L x W x H) block.
+   - Enter tissue section thickness in millimeters.
+
+**Moving a tissue block:** There are 3 methods for moving a tissue block into position.
+   - **Mouse:** When using the mouse, the tissue block can only be moved in _two_ dimensions at a time. 
+
+
 
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|

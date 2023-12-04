@@ -2,6 +2,26 @@
 
 When registering an organ (sample) on HuBMAP or SenNet which is supported in the Human Reference Atlas (HRA), you must register a tissue block for the sample with the HRA using the Registration User Interface (RUI).
 
+**Accessing the RUI** - The RUI is embedded in the sample registration page.
+- The RUI option only appears when registering a tissue block (sample) from a supported organ.
+- Metadata such as author name, date, etc. is captured as part of the tissue ingest process.
+- RUI data is automatically associated with the tissue block on Globus.
+
+**RUI information requirements:**
+- Tissue block length, width, and height dimensions (expressed in mm)
+- Tissue block placement relative to a Human Reference Atlas 3D Reference Organ
+- Entry of all anatomical structures that are a part of the tissue block
+
+**Spatial Registration** - As of February 2022, the RUI supports HRA Tissue Block registration for more than 50 organs.
+1. Is your organ supported? Open the <a href="https://hubmapconsortium.github.io/ccf-ui/rui/">standalone version of the RUI</a> and check the organ carousel.
+2. Gather materials needed to document from where (in the subject) the tissue block was extracted.
+3. Open the RUI: Open the relevant version of the RUI (standalone or ingest portal version).
+   - The _Select an organ_ dialog displays when you browse to the RUI webpage.
+
+**NOTE:** For more detailed instructions, refer to the SOP: <a href="https://zenodo.org/record/6628366#.ZAYfdXbMJD8">Using the CCF Registration User Interface</a>.
+
+
+
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|
 |Accessing the RUI | The RUI is embedded in the sample registration page but the option only appears... <br> &nbsp; • When registering a tissue block (sample) from a supported organ.  <br> &nbsp; • Metadata such as author name, date, etc. is captured as part of the tissue ingest process. <br> &nbsp; • RUI data is automatically associated with the tissue block on Globus.|

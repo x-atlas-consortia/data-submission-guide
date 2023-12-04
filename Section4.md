@@ -17,9 +17,21 @@ When registering an organ (sample) on HuBMAP or SenNet which is supported in the
 2. Gather materials needed to document from where (in the subject) the tissue block was extracted.
 3. Open the RUI: Open the relevant version of the RUI (standalone or ingest portal version).
    - The _Select an organ_ dialog displays when you browse to the RUI webpage.
+   - If applicable, select the right or left version of the organ.
 
 **NOTE:** For more detailed instructions, refer to the SOP: <a href="https://zenodo.org/record/6628366#.ZAYfdXbMJD8">Using the CCF Registration User Interface</a>.
 
+**Donor sex and organ selection:**  
+**Note:** Some steps vary depending on whether you are using the "public" or HuBMAP's ingest portal version.
+1. Enter the donor’s name (This step is the same for both versions).
+2. Select the donor’s sex (This step is the same for both versions).
+3. Organ selection (This step varies based on the version you are using). <br>
+_Public version_:
+   - Click the picture of an organ to select it from the carousel.
+   - The organ may take a few seconds to load.
+   
+   _Ingest portal version_: The organ is pre-selected.
+4. Click **Start Registration** to complete this step and display the CCF Registration page. 
 
 
 |Step | Comments |

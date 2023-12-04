@@ -47,10 +47,18 @@ Click the provided links in this section to access additional relevant informati
     <li> <em>Hover</em> the mouse cursor over the <b>Download</b> button, then select <b>TSV format</b>.</li>
     <li> Need to validate more templates?  Repeat steps <b>i - iv</b> (above) to validate additional metadata spreadsheets.</li>
     <li> Upload validated TSVs: </li>
+    <ul>
+      <b>HuBMAP:</b>
+      <li> Send validated (organ or sample) metadata TSV files to the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> </li>
+      <li> The Helpdesk will manually validate and upload the files.</li>
+      <b>SenNet:</b>
+      <li> Use the <em>Upload Metadata</em> dropdown from the <em>Navigation Bar</em> in the <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing portal</a></li>
+      <li> Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).</li>
+    </ul>
   </ol>
 </ol>
 
-
+**NOTE:** To learn more about metadata validation, see also the <a href="https://docs.google.com/document/d/1lfgiDGbyO4K4Hz1FMsJjmJd9RdwjShtJqFYNwKpbcZY/edit#heading=h.d6xf2xeysl78">Metadata Validation Workflow</a>.
 
 |Step | Comments |
 |:---------------------------------------|:------------------------------------------------------------------------|
@@ -64,5 +72,3 @@ Click the provided links in this section to access additional relevant informati
 |&nbsp; d. Hover over **Download** button | &nbsp; &nbsp;  • _Hover_ the mouse cursor over the **Download** button <br> &nbsp; &nbsp;  • Then select **TSV format**|
 | &nbsp; e. Validate more templates? | Repeat steps **a - d** (above) to validate additional metadata spreadsheets.|
 |&nbsp; f. Upload validated TSVs | For HuBMAP: <br> Send validated (organ or sample) metadata TSV files to the [HuBMAP Helpdesk](mailto:help@hubmapconsortium.org) <br>where they can manually validate and upload the files.<br> For SenNet: <br> Use the _Upload Metadata_ dropdown from the _Navigation Bar_ in the [SenNet Data Sharing portal](https://data.sennetconsortium.org/search), <br> selecting the type of metadata: (_Mouse_ or _Organ, Block, Section,_ or _Suspension_ — sample types).|
-
-**NOTE:** To learn more about metadata validation, see also the <a href="https://docs.google.com/document/d/1lfgiDGbyO4K4Hz1FMsJjmJd9RdwjShtJqFYNwKpbcZY/edit#heading=h.d6xf2xeysl78">Metadata Validation Workflow</a>.

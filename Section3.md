@@ -17,6 +17,23 @@ Click the provided links in this section to access additional relevant informati
       <li> Select the <b>Excel template</b> on that page.</li>
     </ul>
   </ul>
+  <li>  Is a template missing any categorical values that you need for specific fields (instrument name, researcher ID, etc.)? </li>
+  <ul>
+    <li> Contact the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> to add these value(s) to the relevant template.</li>
+    <li> When making this request, identify the specific Excel template, fields, and categorical values needed.</li>
+    <b>NOTE:</b> Adding new values to a field can take time, so please plan ahead.
+  </ul>
+  <li> Validate your metadata spreadsheet (template) using the <a href="https://metadatavalidator.metadatacenter.org/"> Metadata Spreadsheet Validator</a>. This tool: </li>
+  <ul>
+    <li> Validates metadata spreadsheets against specifications stored in the CEDAR repository.</li>
+    <li> Categorizes any errors found and provides hints on how to fix those errors. </li>
+    <li> <a href="https://metadatacenter.github.io/spreadsheet-validator-docs/">Help documentation</a> for the Validator: </li>
+    <ul> 
+      <li> Includes a user manual and tutorial videos.</li>
+      <li> Will assist you with fixing any errors your metadata spreadsheet may contain.</li>
+    </ul>
+    <li> TMCs are required to validate their metadata BEFORE uploading it to the HIVE or CODCC.</li>
+  </ul>
 </ol>
 
 

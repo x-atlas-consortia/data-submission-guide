@@ -34,6 +34,20 @@ Click the provided links in this section to access additional relevant informati
     </ul>
     <li> TMCs are required to validate their metadata BEFORE uploading it to the HIVE or CODCC.</li>
   </ul>
+  <br>
+  <li> Validation procedure - Follow the steps outlined below to validate any metadata spreadsheet (except Donor metadata) using the Validator.</li>
+  <ol>
+    <li> Upload completed template - Upload your completed Excel spreadsheet (metadata template) to the Validator (see link to validator in step 3, above).</li>
+    <li> Click <b>Start Validating</b> to check your spreadsheet. Any detected errors will display. </li>
+    <ul> 
+      <li> If errors are detected, use the Validator tools to correct any errors.</li>
+      <li> When no errors are found, you may safely upload your spreadsheet.</li>
+    </ul>
+    <li> Download corrected template - Once all errors are corrected, download the <em>corrected</em> metadata spreadsheet (TSV format).</li>
+    <li> <em>Hover</em> the mouse cursor over the <b>Download</b> button, then select <b>TSV format</b>.</li>
+    <li> Need to validate more templates?  Repeat steps <b>i - iv</b> (above) to validate additional metadata spreadsheets.</li>
+    <li> Upload validated TSVs: </li>
+  </ol>
 </ol>
 
 

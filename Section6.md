@@ -2,6 +2,29 @@
 
 Click the provided links in this section to access additional relevant information or resources.
 
+Create metadata files. Download and complete the latest version of each required metadata template:
+  - assay-specific
+  - <a href="https://hubmapconsortium.github.io/ingest-validation-tools/contributors/current/">contributors</a>
+  - <a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/">antibodies</a> (if relevant) 
+  
+  Lists of assay-specific templates are available from the HuBMAP consortium’s <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page.
+  
+  **Note:** Many HuBMAP metadata schemas are shared by SenNet. The <a href="https://docs.sennetconsortium.org/libraries/ingest-validation-tools/schemas/source-murine">murine source schema</a> is _unique_ to SenNet.
+
+1. Assay-specific templates. Clicking on an assay type (on the page linked above) takes you to a page for that type.
+   - Select the <strong>Excel template</strong> on that page.
+   - Each page includes field name descriptors, format requirements.
+2. The <a href="https://hubmapconsortium.github.io/ingest-validation-tools/contributors/current/">Contributors template</a> lists the names, institutions, and ORCID ID's of contributors to the dataset.
+   - If ALL datasets listed in your assay metadata use the same set of contributors, you may submit just one contributors file.
+   - Point to the file in the <em>contributors_path</em> field for the corresponding datasets.
+3. <a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/"> Antibodies template</a>. Required for all assays that use antibodies.
+   - If _ALL_ datasets in your assay metadata use the same set of antibodies:
+   - You may submit just one <em>antibodies</em> file.
+     
+**NOTE:** A separate antibody _validation report_ is also required. 
+
+
+
 |Step | Comments |
 |---------------------------------------|------------------------------------------------------------------------|
 |Create metadata files | Download and complete the latest version of each required metadata template: <br> &nbsp; • assay-specific <br> &nbsp; • <a href="https://hubmapconsortium.github.io/ingest-validation-tools/contributors/current/">contributors</a> <br> &nbsp; • <a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/">antibodies</a> (if relevant) <br> Lists of assay-specific templates are available from the HuBMAP consortium’s <br> <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page. **Note:** Many HuBMAP metadata schemas are shared <br> by SenNet. The <a href="https://docs.sennetconsortium.org/libraries/ingest-validation-tools/schemas/source-murine">murine source schema</a> is _unique_ to SenNet.|

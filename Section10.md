@@ -45,6 +45,22 @@ These statuses display in the ingestion portal as a data set is processed.
 
 **Data Processing: Ingestion, HIVE / CODCC Validation, and Processing**
 
+#### Prerequisites
+
+  - Upload all data files to the team’s Globus folder.
+      - Each dataset has a corresponding directory and row in an associated metadata template file.
+      - Each row in a template = one dataset
+      - Multiple metadata template files can be included, but at least one is _required_. 
+
+**NOTE:** Multiple sets of data can be uploaded and the same data set _could_ be uploaded more than once. Each data upload is assigned a UUID (universally unique identifier), but not a version number, until it has completed the entire data ingest, validation, and approval process and is published.
+
+  1. Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> once all the files associated with an upload have been uploaded. This lets them know that the upload is ready for ingestion (not an automated process).
+
+ **IMPORTANT:** Include the _root path(s)_ of the specific data upload(s) in the email. 
+ 
+  2. The HIVE (or CODCC) extracts each data upload, corresponding data, and registers them as individual datasets.
+  3. The HIVE (or CODCC) processes he data and metadata that you have uploaded for ingestion. If ingestion fails, or if additional information is needed, the data provider will be contacted using the ticketing system.
+
 | Step | Comments |
 |:---------------------|:----------------------------------------------------|
 |_Prerequisites:_ | |

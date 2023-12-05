@@ -9,5 +9,5 @@ Links to additional related portals, sites, and other resources are also provide
 
 [Use this tool to track your team's progress in the data submission/data ingest process.]: #
 
-• Use the Table of Contents below to jump to a section of interest. <br>
-• Use the key combination Ctrl + F  to search for a term or topic within this page.
+• Use the _Table of Contents_ to jump to a section of interest. <br>
+• Use the key combination **Ctrl + F** to search for a term or topic within this page.

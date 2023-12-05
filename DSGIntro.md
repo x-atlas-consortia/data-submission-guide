@@ -5,8 +5,9 @@ Additional information about each each step (or section) of the process and addi
 
 Links to additional related portals, sites, and other resources are also provided herein.
 
-Download a "tracker" version of this list: [HuBMAP Data Upload Checklist](https://docs.google.com/document/d/1NL-YxyxMAP4Oa0X7ksh0bfOIG_U3nq0-nBtARsas1SE/edit)  
-Use this tool to track your team's progress in the data submission/data ingest process.
+[Download a "tracker" version of this list: <a href="https://docs.google.com/document/d/1NL-YxyxMAP4Oa0X7ksh0bfOIG_U3nq0-nBtARsas1SE/edit> HuBMAP Data Upload Checklist</a>]: #
+
+[Use this tool to track your team's progress in the data submission/data ingest process.]: #
 
 • Use the Table of Contents below to jump to a section of interest. <br>
 • Use the key combination Ctrl + F  to search for a term or topic within this page.

@@ -48,9 +48,9 @@ These statuses display in the ingestion portal as a data set is processed.
 #### Prerequisites
 
   - Upload all data files to the team’s Globus folder.
-      - Each dataset has a corresponding directory and row in an associated metadata template file.
-      - Each row in a template = one dataset
-      - Multiple metadata template files can be included, but at least one is _required_. 
+  - Each dataset has a corresponding directory and row in an associated metadata template file.
+  - Each row in a template = one dataset
+  - Multiple metadata template files can be included, but at least one is _required_. 
 
 **NOTE:** Multiple sets of data can be uploaded and the same data set _could_ be uploaded more than once. Each data upload is assigned a UUID (universally unique identifier), but not a version number, until it has completed the entire data ingest, validation, and approval process and is published.
 
@@ -60,6 +60,20 @@ These statuses display in the ingestion portal as a data set is processed.
  
   2. The HIVE (or CODCC) extracts each data upload, corresponding data, and registers them as individual datasets.
   3. The HIVE (or CODCC) processes he data and metadata that you have uploaded for ingestion. If ingestion fails, or if additional information is needed, the data provider will be contacted using the ticketing system.
+
+**NOTE:** For Clinical assay data, the Pitt team will de-identify this data and submit the scrubbed data to the HIVE / CODCC. The provider of the data will need to review and approve the release of the de-identified data in the <a href="#publication">publish step</a>.
+
+  4. Pipeline processing: The HIVE / CODCC processes certain assays by standardized pipelines (where applicable).
+       1. CODEX - Cyclic immunofluorescence imaging: The pipeline uses Cytokit + SPRM
+       2. ATAC-seq - (Including sc-, sn-, and bulk variants): The pipeline uses SnapTools + SnapATAC
+       3. RNA-seq - (Including sc-,sn-,bulk): The pipeline uses Salmon + Scanpy + scVelo
+       4. Other imaging data: SPRM
+    
+Additional pipelines will be added over time, as needed. Pipelines are available for download use by others, including TMCs. 
+
+**NOTE:** Generally, TMCs are not involved with pipelines, but may be contacted if an error occurs.
+
+<br>
 
 | Step | Comments |
 |:---------------------|:----------------------------------------------------|

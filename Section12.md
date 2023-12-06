@@ -16,11 +16,11 @@ After the registration of a dbGaP study by a data provider, the submission of da
 6. **Required submission forms** (see list below): Following the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#astart">dbGaP instructions</a>, the data submitters download the <a href=" https://ftp.ncbi.nlm.nih.gov/dbgap/dbGaP_Submission_Guide_Templates/">dbGaP Submission Guide Templates</a> 
 and work together to complete these forms. Gather and complete ALL files BEFORE submitting. 
 These forms will include at least the following for HuBMAP projects: 
-    - <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aconfig">Study Config</a>: To be completed by designated data submitter.
-    - <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asc">Subject Consent DS & DD</a>: To be completed by the HIVE or CODCC data submitter.
-    - Subject Sample Mapping (SSM) DS and DD (Completed by the HIVE data submitter)
-    - Sample Attributes DS and DD (Completed by the HIVE data submitter) 
-    **NOTE:** DS = Dataset, DD = Data Dictionary 
+    - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aconfig">Study Config</a>: To be completed by designated data submitter.
+    - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asc">Subject Consent DS & DD</a>: To be completed by the HIVE or CODCC data submitter. (DS = Dataset, DD = Data Dictionary)
+    - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#assm">Subject Sample Mapping DS & DD</a>: To be completed by the HIVE data submitter.
+    - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asampattr"> Sample Attributes DS & DD</a>: To be completed by the HIVE data submitter. 
+   <br> **NOTE:** DS = Dataset, DD = Data Dictionary 
 
 Depending on the answers provided to the Submission Portal Questionnaire, the designated data submitter may also need to complete the following files for upload: 
   - Mapping Study Samples to Other NCBI databases (e.g. Sample GEO Mapping DS and DD)

@@ -23,13 +23,14 @@ These forms will include at least the following for HuBMAP projects:
    <br> **NOTE:** DS = Dataset, DD = Data Dictionary 
 
 Depending on the answers provided to the Submission Portal Questionnaire, the designated data submitter may also need to complete the following files for upload: 
-  - Mapping Study Samples to Other NCBI databases (e.g. Sample GEO Mapping DS and DD)
-  - Subject Phenotypes DS and DD
-  - Pedigree DS and DD
+  - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#ncbidb">Mapping Study Samples</a> (e.g. Sample GEO Mapping DS and DD)
+  - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#crucialdata">Subject Phenotypes DS & DD</a>
+  - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aped">Pedigree DS & DD</a>
   - Study Documents (consent forms, protocols, etc.) 
+7. **Review <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#16-how-do-i-verify-that-my-ds-an">checklist</a>, submit forms:** The HIVE (or CODCC) data submitter reviews the checklist to ensure that the Phenotype Datasets and Data dictionary files pass the dbGaP quality control tests. Then the HIVE (or CODCC) data submitter submits all required forms.
+8. **dbGaP contacts submitters:** dbGaP Phenotype curator contacts the submitters when the above information has been loaded into dbGaP and entities have received NCBI BioSample and SRA IDs.
+9. **Upload sequence metadata:** The HIVE (or CODCC) data submitter follows directions to <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#20-how-do-i-submit-files-for-hig">upload sequencing metadata</a> and to <a href=" https://www.ncbi.nlm.nih.gov/sra/docs/submitdbgap/">submit raw sequence reads</a>, working with an SRA curator, to upload to a protected area of SRA.
+10. **SRA processes the data:** SRA processes the sequence data and metadata and notifies dbGaP and the submitters.
+11. **Human sequence data:** Distributed through Authorized Access upon dbGaP release of the study. <br>
+<b>IMPORTANT:</b> This process can take <em>an additional 6-8 weeks</em>.
     
-10. The HIVE data submitter reviews this checklist to ensure that the Phenotype Datasets and Data dictionary files will pass the dbGaP quality control tests. 
-11. The HIVE data submitter submits all of the required forms above, all at once, in one submission. 12. A dbGaP phenotype curator contacts the submitters once the above information has been loaded into dbGaP and entities have received NCBI BioSample and Sequence Read Archive (SRA) IDs. 
-13. The HIVE data submitter follows the instructions here and here to upload sequencing metadata and submit the raw sequence reads in collaboration with an SRA curator, to a protected area of SRA. 
-14. SRA processes the sequence data and metadata and notifies dbGaP and the submitters. 
-15. The human sequence data will be distributed through Authorized Access upon dbGaP release of the study. IMPORTANT: This process can take an additional 6-8 weeks.

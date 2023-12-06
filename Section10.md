@@ -109,6 +109,20 @@ Additional pipelines will be added over time, as needed. Pipelines are available
 
 These statuses apply to datasets created from a data upload. Once a data upload has been reorganized into datasets, each dataset passes through the system, ideally progressing from New to QA to Approved.
 
+**New** - Data upload reorganized, broken into datasets, and status set to _New_. Data curation kicks off automated processes. If successful, status changes to _QA_. If these processes fail, the status changes to _Invalid_.
+
+**QA** - Dataset is ready for pipeline processing OR for Provider approval (if no pipeline processing is needed). Status changes to _Processing_ when data curation presses the “Validate” button.
+
+**Processing** - The data upload is being processed and is not editable. A transient state (between other states) while automated processes act on the upload.
+
+**Approved** - Dataset approved by provider and any pipeline processing completed without errors. Dataset is ready for publication.
+
+**Abandoned** - Dataset will not be further processed or published. There is no plan to advance this dataset. **NOTE:** At any point the data provider can elect to abandon the dataset.
+
+**Invalid** - **ONLY PRIMARY DATASETS** - Information is missing or incorrect in the dataset. Someone from the HIVE (or CODCC) will contact the data provider to address this status. 
+
+**Error** - **ONLY DERIVED DATASETS** - Error(s) occurred during pipeline processing. Someone from the HIVE (or CODCC) will contact the data provider to address this status.
+
 | Status | Explanation / Comments |
 |:---------------------|:----------------------------------------------------|
 | **New** | Data upload reorganized, broken into datasets, and status set to _New_. Data curation kicks off automated processes. If successful, status changes to _QA_. If these processes fail, the status changes to _Invalid_..|

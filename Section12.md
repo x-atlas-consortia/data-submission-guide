@@ -31,4 +31,3 @@ Depending on the answers provided to the _Submission Portal Questionnaire_, the 
 10. **SRA processes the data:** SRA processes the sequence data and metadata and notifies dbGaP and the submitters.
 11. **Human sequence data:** Distributed through Authorized Access upon dbGaP release of the study. <br>
 <b>IMPORTANT:</b> This process can take <em>an additional 6-8 weeks</em>.
-    

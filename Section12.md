@@ -7,15 +7,17 @@ After the registration of a dbGaP study by a data provider, the submission of da
 1. **Identify an NIH GPA:** The Data Provider PI works with their Program Officer to identify an NIH Genomic Program Administrator (GPA) who will help them prepare a study for dbGaP following the [process outlined here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap). 
 2. **Register dbGaP study / create Bioproject:** The Data Provider PI and NIH GPA register a study in the [dbGaP Submission System](https://dbgap.ncbi.nlm.nih.gov/dbgap/ss/dbgapss.cgi?login) and create a Bioproject for the study. This step should be done by the data provider as early as possible, ideally before any data are generated. 
 3. **Data Provider PI / PM contact the HIVE / CODCC:** The Data Provider PI or project manager (PM) should contact the HIVE as soon as a dbGaP study has been registered, to initiate HIVE (or CODCC) involvement in the process. 
-4. The Data Provider PI or PM identify a team member to serve as the designated data submitter.
-5. The designated data submitter contacts the HIVE through the HuBMAP help desk. 
-6. The HIVE will identify a HIVE data submitter to work with the team member on the dbGap data submission. 
-7. The Data Provider PI adds the designated data submitter and the HIVE data submitter as submitters for the dbGaP study on the NCBI dbGaP submission portal. NOTE: This is distinct from the dbGaP Submission system identified in step 2, above. 
-8. The Data Provider PI or their designated data submitter completes the Submission Portal Questionnaire on the NCBI dbGaP submission portal for the registered study (step 2, above). 
-9. Following the dbGaP instructions, the designated data submitter and the HIVE data submitter download the dbGaP Submission Guide Templates and work together to complete the forms required for submission. Gather and complete ALL files BEFORE submitting. 
+4. **Designate Data Submitters:** The data provider PI or PM identifies a team member to serve in this capacity.
+   - This person contacts the HIVE (or CODCC) via the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> (or <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>).
+   - The HIVE (or CODCC) identifies a HIVE (or CODCC) data submitter to work with the team member on the dbGap data submission.
+   - The data provider PI adds the data submitters to the dbGaP study on the <a href="https://submit.ncbi.nlm.nih.gov/dbgap/">NCBI dbGaP submission portal.</a>
+    <br><strong>NOTE: </strong>This is distinct from the dbGaP Submission system identified in step 2, above.
+5. **Submission Portal Questionnaire:** The Data Provider PI (or their designated data submitter) completes this on the NCBI dbGaP submission portal for the registered study (step 2 above).
+6. **Required submission forms** (see list below): Following the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#astart">dbGaP instructions</a>, the data submitters download the <a href=" https://ftp.ncbi.nlm.nih.gov/dbgap/dbGaP_Submission_Guide_Templates/">dbGaP Submission Guide Templates</a> 
+and work together to complete these forms. Gather and complete ALL files BEFORE submitting. 
 These forms will include at least the following for HuBMAP projects: 
-    - Study Config (Completed by designated data submitter)
-    - Subject Consent DS and DD (Completed by the HIVE data submitter)
+    - <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aconfig">Study Config</a>: To be completed by designated data submitter.
+    - <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asc">Subject Consent DS & DD</a>: To be completed by the HIVE or CODCC data submitter.
     - Subject Sample Mapping (SSM) DS and DD (Completed by the HIVE data submitter)
     - Sample Attributes DS and DD (Completed by the HIVE data submitter) 
     **NOTE:** DS = Dataset, DD = Data Dictionary 

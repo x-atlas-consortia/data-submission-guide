@@ -1,3 +1,5 @@
+## Section 12 - dbGap Submission
+
 After the registration of a dbGaP study by a data provider, the submission of data to that dbGaP study is a joint process undertaken by both the data provider and the HIVE or CODCC. We encourage data providers to create a dbGaP study and notify the HIVE or CODCC as early as possible. 
 
 **NOTE:** The dbGaP submission process can take up to six months after the publication of your sequence data in the HuBMAP portal or SenNet Data Sharing portal. 

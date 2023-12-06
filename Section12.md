@@ -1,8 +1,6 @@
 ## Section 12 - dbGap Submission
 
-After the registration of a dbGaP study by a data provider, the submission of data to that dbGaP study is a joint process undertaken by both the data provider and the HIVE or CODCC. We encourage data providers to create a dbGaP study and notify the HIVE or CODCC as early as possible. 
-
-**NOTE:** The dbGaP submission process can take up to six months after the publication of your sequence data in the HuBMAP Data portal or SenNet Data Sharing portal. 
+After the registration of a dbGaP study by a data provider, the submission of data to that dbGaP study is a joint process undertaken by both the data provider and the HIVE or CODCC. We encourage data providers to create a dbGaP study and notify the HIVE or CODCC as early as possible. **NOTE:** The dbGaP submission process can take up to _six months_ after the publication of your sequence data in the HuBMAP Data portal or SenNet Data Sharing portal. 
 
 1. **Identify an NIH GPA:** The Data Provider PI works with their Program Officer to identify an NIH Genomic Program Administrator (GPA) who will help them prepare a study for dbGaP following the [process outlined here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap). 
 2. **Register dbGaP study / create Bioproject:** The Data Provider PI and NIH GPA register a study in the [dbGaP Submission System](https://dbgap.ncbi.nlm.nih.gov/dbgap/ss/dbgapss.cgi?login) and create a Bioproject for the study. This step should be done by the data provider as early as possible, ideally before any data are generated. 
@@ -22,7 +20,7 @@ These forms will include at least the following for HuBMAP projects:
     - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asampattr"> Sample Attributes DS & DD</a>: To be completed by the HIVE data submitter. 
    <br> **NOTE:** DS = Dataset, DD = Data Dictionary 
 
-Depending on the answers provided to the Submission Portal Questionnaire, the designated data submitter may also need to complete the following files for upload: 
+Depending on the answers provided to the _Submission Portal Questionnaire_, the designated data submitter may also need to complete the following files for upload: 
   - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#ncbidb">Mapping Study Samples</a> (e.g. Sample GEO Mapping DS and DD)
   - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#crucialdata">Subject Phenotypes DS & DD</a>
   - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aped">Pedigree DS & DD</a>

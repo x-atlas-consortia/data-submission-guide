@@ -52,13 +52,14 @@ These statuses display in the ingestion portal as a data set is processed.
 
 
 <span style="background-color: aquamarine;">
+  
 **NOTE:** For Clinical assay data, the Pitt team will de-identify this data and submit the scrubbed data to the HIVE / CODCC. The provider of the data will need to review and approve the release of the de-identified data in the <a href="#publication">publish step</a>.</span>
 
   4. Pipeline processing: The HIVE / CODCC processes certain assays by standardized pipelines (where applicable).
-       1. CODEX - Cyclic immunofluorescence imaging: The pipeline uses Cytokit + SPRM
-       2. ATAC-seq - (Including sc-, sn-, and bulk variants): The pipeline uses SnapTools + SnapATAC
-       3. RNA-seq - (Including sc-,sn-,bulk): The pipeline uses Salmon + Scanpy + scVelo
-       4. Other imaging data: SPRM
+     - CODEX - Cyclic immunofluorescence imaging: The pipeline uses Cytokit + SPRM
+     - ATAC-seq - (Including sc-, sn-, and bulk variants): The pipeline uses SnapTools + SnapATAC
+     - RNA-seq - (Including sc-,sn-,bulk): The pipeline uses Salmon + Scanpy + scVelo
+     - Other imaging data: SPRM
     
 Additional pipelines will be added over time, as needed. Pipelines are available for download use by others, including TMCs. 
 

@@ -1,6 +1,6 @@
 ## Section 5 - Preparing a Submissions Directory
 
-**NOTE:** The steps below are shared by both _Clinical_ and _non-Clinical_, except as noted below.
+**NOTE:** The steps below are shared by both <span style="background-color: aquamarine;">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
 
 Prepare a Submissions Directory. Use this directory for submitting datasets to the HIVE (HuBMAP) or CODCC (SenNet).
   - Set up the directory based on the assay-specific directory schema for each assay in Github: (e.g. [CODEX Directory structure](https://hubmapconsortium.github.io/ingest-validation-tools/codex/)).

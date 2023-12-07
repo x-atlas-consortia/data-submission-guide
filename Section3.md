@@ -34,28 +34,27 @@ Click the provided links in this section to access additional relevant informati
     </ul>
     <li> TMCs are required to validate their metadata BEFORE uploading it to the HIVE or CODCC.</li>
   </ul>
-  <br>
-  <li> Validation procedure - Follow the steps outlined below to validate any metadata spreadsheet (except Donor metadata) using the Validator.</li>
-  <ol>
-    <li> Upload completed template - Upload your completed Excel spreadsheet (metadata template) to the Validator (see link to validator in step 3, above).</li>
-    <li> Click <b>Start Validating</b> to check your spreadsheet. Any detected errors will display. </li>
-    <ul> 
-      <li> If errors are detected, use the Validator tools to correct any errors.</li>
-      <li> When no errors are found, you may safely upload your spreadsheet.</li>
-    </ul>
-    <li> Download corrected template - Once all errors are corrected, download the <em>corrected</em> metadata spreadsheet (TSV format).</li>
-    <li> <em>Hover</em> the mouse cursor over the <b>Download</b> button, then select <b>TSV format</b>.</li>
-    <li> Need to validate more templates?  Repeat steps <b>i - iv</b> (above) to validate additional metadata spreadsheets.</li>
-    <li> Upload validated TSVs: </li>
-    <ul>
-      <b>HuBMAP:</b>
-      <li> Send validated (organ or sample) metadata TSV files to the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> </li>
-      <li> The Helpdesk will manually validate and upload the files.</li>
-      <b>SenNet:</b>
-      <li> Use the <em>Upload Metadata</em> dropdown from the <em>Navigation Bar</em> in the <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing portal</a></li>
-      <li> Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).</li>
-    </ul>
-  </ol>
 </ol>
+  
+### Validation procedure
+  
+Follow the steps outlined below to validate any metadata spreadsheet (except Donor metadata) using the Validator.</li>
+  1. Upload completed template - Upload your completed Excel spreadsheet (metadata template) to the Validator (see link above).
+  2. Click <b>Start Validating</b> to check your spreadsheet. Any detected errors will display.
+     - If errors are detected, use the Validator tools to correct any errors.
+     - When no errors are found, you may safely upload your spreadsheet.
+  3. Download corrected template - Once all errors are corrected, download the <em>corrected</em> metadata spreadsheet (TSV format).
+  4. <em>Hover</em> the mouse cursor over the <b>Download</b> button, then select <b>TSV format</b>.
+  5. Need to validate more templates?  Repeat steps <b>1 - 4</b> (above) to validate additional metadata spreadsheets.
+  6. Upload validated TSVs:
+     - <b>HuBMAP:</b>
+         - Send validated (organ or sample) metadata TSV files to the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a>
+         - The Helpdesk will manually validate and upload the files.
+      - <b>SenNet:</b>
+         - Use the <em>Upload Metadata</em> dropdown from the <em>Navigation Bar</em> in the <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing portal</a>
+         - Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).</li>
 
 **NOTE:** To learn more about metadata validation, see also the <a href="https://docs.google.com/document/d/1lfgiDGbyO4K4Hz1FMsJjmJd9RdwjShtJqFYNwKpbcZY/edit#heading=h.d6xf2xeysl78">Metadata Validation Workflow</a>.
+
+
+      

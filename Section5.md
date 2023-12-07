@@ -18,7 +18,8 @@ Prepare a Submissions Directory. Use this directory for submitting datasets to t
 3. Organize the dataset components (i.e., data and metadata files) in a submission directory according to the required directory structure specified in the GitHub page for the assay (e.g., <a href="https://github.com/hubmapconsortium/ingest-validation-tools/tree/main/docs/codex">CODEX directory structure</a>).|
 
 <hr>
-
+<span style="background-color: aquamarine;">
+  
 **Next steps for Clinical assays (ONLY)**. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.
 
 2. Create a root directory. Inside this directory place the metadata.tsv and contributors.tsv files.
@@ -26,7 +27,7 @@ Prepare a Submissions Directory. Use this directory for submitting datasets to t
 
  **NOTE:** Clinical assays may have protected patient information (PPI) embedded in the metadata or images. 
    - PPI <em>must</em> be removed before the metadata or images are made available through HuBMAP.
-   - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant.
+   - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant. </span>
 
 <hr>
 

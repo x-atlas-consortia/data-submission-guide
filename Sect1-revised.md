@@ -26,6 +26,9 @@ Register as a member, which includes requesting access to resources, completing 
   3. Complete onboarding for your consortium.
       - Register as a HuBMAP or SenNet member.
       - Verify that you can successfully login to the <a href="https://hubmapconsortium.org/"> HuBMAP Consortium</a> or <a href="https://sennetconsortium.org/"> SenNet Consortium</a> website.
+
+  Register experimental protocols for your group:
+        
   4. Register experimental protocol(s) via <a href="https://www.protocols.io/welcome">protocols.io</a>. Each registered protocol requires a digital object identifier (DOI).
      - Initial setup
          - Select a lead and create accounts.
@@ -34,53 +37,22 @@ Register as a member, which includes requesting access to resources, completing 
           - Break workflows into modules.
           - Create an overall protocol that references others.
           - See this Vanderbilt protocol as an example: <a href="https://dx.doi.org/10.17504/protocols.io.bfskjncw">VU BIOMIC Kidney pipeline</a>
+       - Create a New protocol
+          - Many templates are available
+          - Pick the DOI option when publishing.
+        - Create / publish a new protocol
+          - Use a template
+          - Include HuBMAP (or SenNet) and team name as keywords
+          - Publish the protocol
+          - For additional examples, see also:
+            - <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a>
+            - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a></li>
+        - Modify an existing protocol
+          - Open an existing protocol.
+          - Use <em>Edit New Version</em> or <em>Edit New Fork</em>.
+          - For detailed directions, click on <em>"Details about Creating (or Publishing) Protocols..."</em> or related sections below.
 
-<br>
-
-<li> Register experimental protocol(s) via <a href="https://www.protocols.io/welcome">protocols.io</a>.</li>
-      <ul>
-        <li> Each registered protocol requires a digital object identifier (DOI).</li>
-      </ul>
-      <ol>
-        <li> Initial setup</li>
-        <ul>
-          <li> Select a lead and create accounts.</li>
-          <li> Create a workspace for your team (TMC, TTD, RTI, DP, etc).</li>
-        </ul>
-        <li> Organize your protocols</li>
-        <ul>
-          <li> Break workflows into modules.</li>
-          <li> Create an overall protocol that references others.</li>
-          <li> See this Vanderbilt protocol as an example: <a href="https://dx.doi.org/10.17504/protocols.io.bfskjncw">VU BIOMIC Kidney pipeline</a></li>
-        </ul>
-        <li> Create a New protocol</li>
-        <ul>
-          <li> Many templates are available</li>
-          <li> Pick the DOI option when publishing.</li>
-        </ul>
-        <ol>
-          <li> Create / publish a new protocol</li>
-          <ul>
-            <li> Use a template</li>
-            <li> Include HuBMAP (or SenNet) and team name as keywords.</li>
-            <li> Publish the protocol</li>
-            <li> For additional examples, see also:</li>
-            <ul>
-              <li> <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a> OR</li>
-              <li> <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a></li>
-            </ul>
-          </ul>
-          <li> Modify an existing protocol</li>
-          <ul>
-            <li> Open an existing protocol.</li>
-            <li> Use <em>Edit New Version</em> or <em>Edit New Fork</em>.</li>
-            <li> Follow steps to create and publish a new protocol.</li>
-            <li> For detailed directions, click on <em>"Details about Creating (or Publishing) Protocols..."</em> or related sections below.</li>
-          </ul>
-        </ol>
-</ol>
-</ol>
-<hr> 
+<hr>
   
 ### Different ways to create a New Protocol 
 

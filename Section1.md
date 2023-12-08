@@ -54,7 +54,7 @@ Register as a member, which includes requesting access to resources, completing 
 
 <hr> 
   
-### Different ways to create a new protocol at [protocols.io](http://protocols.io/)
+### Different ways to create a New Protocol
 
 1. Create an entirely new protocol from "scratch" at [protocols.io](http://protocols.io/).
 2. Create a new version of an existing protocol:

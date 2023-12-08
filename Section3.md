@@ -1,5 +1,8 @@
-## Section 3 - Add Metadata for an Organ or Samples
+## Section 3 - Adding Metadata
+Directions for adding Metadata for an organ or samples and validating that metadata. Note that the procedures for uploading the validated metadata currently differ between HuBMAP and SenNet.
 Click the provided links in this section to access additional relevant information or resources.
+
+<hr>
 
 <ol>
   <li> Download metadata template(s): Access lists of metadata schemas (and related information) from HuBMAP’s <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page.</li>
@@ -55,6 +58,3 @@ Follow the steps outlined below to validate any metadata spreadsheet (except Don
          - Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).</li>
 
 **NOTE:** To learn more about metadata validation, see also the <a href="https://docs.google.com/document/d/1lfgiDGbyO4K4Hz1FMsJjmJd9RdwjShtJqFYNwKpbcZY/edit#heading=h.d6xf2xeysl78">Metadata Validation Workflow</a>.
-
-
-      

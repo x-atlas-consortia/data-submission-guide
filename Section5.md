@@ -1,6 +1,8 @@
-## Section 5 - Preparing a Submissions Directory
+## Section 5 - Submissions Directory Prep
+This section decribes setting up the submissions directory. Some directions differ for <span style="background-color: aquamarine;">_Clinical_</span> versus _non-Clinical_ assays. 
+Most steps are shared by both <span style="background-color: aquamarine;">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
 
-**NOTE:** The steps below are shared by both <span style="background-color: aquamarine;">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
+<hr>
 
 Prepare a Submissions Directory. Use this directory for submitting datasets to the HIVE (HuBMAP) or CODCC (SenNet).
   - Set up the directory based on the assay-specific directory schema for each assay in Github: (e.g. [CODEX Directory structure](https://hubmapconsortium.github.io/ingest-validation-tools/codex/)).
@@ -14,20 +16,19 @@ Prepare a Submissions Directory. Use this directory for submitting datasets to t
 
 **Next steps for non-Clinical (most) assays.** This includes ANY assay type _except_ the specific clinical types listed below.
 
-2. Assay-specific directory schema. Access via GitHub link (e.g., <a href="https://software.docs.hubmapconsortium.org/assays/codex">CODEX example</a>) or <a href="https://software.docs.hubmapconsortium.org/metadata">HuBMAP metadata specifications</a> in the portal. 
-3. Organize the dataset components (i.e., data and metadata files) in a submission directory according to the required directory structure specified in the GitHub page for the assay (e.g., <a href="https://github.com/hubmapconsortium/ingest-validation-tools/tree/main/docs/codex">CODEX directory structure</a>).|
+  2. Assay-specific directory schema. Access via GitHub link (e.g., <a href="https://software.docs.hubmapconsortium.org/assays/codex">CODEX example</a>) or <a href="https://software.docs.hubmapconsortium.org/metadata">HuBMAP metadata specifications</a> in the portal. 
+  3. Organize the dataset components (i.e., data and metadata files) in a submission directory according to the required directory structure specified in the GitHub page for the assay (e.g., <a href="https://github.com/hubmapconsortium/ingest-validation-tools/tree/main/docs/codex">CODEX directory structure</a>).
 
 <hr>
-<span style="background-color: aquamarine;">
-  
-**Next steps for Clinical assays (ONLY)**. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.
 
-2. Create a root directory. Inside this directory place the metadata.tsv and contributors.tsv files.
-3. Create a data subdirectory inside the root directory. When all the files are ready, compress the root directory using a utility (e.g. tar or .zip) to reduce its file size for submission.
+<span style="background-color: aquamarine;"> <b>Next steps for Clinical assays (ONLY)</b>. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.</span>
 
- **NOTE:** Clinical assays may have protected patient information (PPI) embedded in the metadata or images. 
-   - PPI <em>must</em> be removed before the metadata or images are made available through HuBMAP.
-   - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant. </span>
+  2. <span style="background-color: aquamarine;">Create a root directory. Inside this directory place the metadata.tsv and contributors.tsv files.</span>
+  3. <span style="background-color: aquamarine;">Create a data subdirectory inside the root directory. When all the files are ready, compress the root directory using a utility (e.g. tar or .zip) to reduce its file size for submission.</span>
+
+ <span style="background-color: aquamarine;"><b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images. </span>
+   - <span style="background-color: aquamarine;">PPI <em>must</em> be removed before the metadata or images are made available through HuBMAP.</span>
+   - <span style="background-color: aquamarine;">This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant. </span>
 
 <hr>
 

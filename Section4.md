@@ -1,6 +1,7 @@
-## Section 4 - Registering RUI Tissue Block Locations
-
+## Section 4 - Registering RUI Tissue Blocks
 When registering an organ (sample) on HuBMAP or SenNet which is supported in the Human Reference Atlas (HRA), you must register a tissue block for the sample with the HRA using the Registration User Interface (RUI).
+
+<hr>
 
 **Accessing the RUI** - The RUI is embedded in the sample registration page.
 - The RUI option only appears when registering a tissue block (sample) from a supported organ.

@@ -1,5 +1,8 @@
 ## Section 2 - Registering Data Sources
-**NOTE:** We strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
+Directions for registering donors (HuBMAP), sources (SenNet), and organs or samples that derive from those donors or sources.
+<br>**NOTE:** We strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
+
+<hr>
 
 ### Register a donor or source
   - Register a donor via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. A <em>donor</em> in HuBMAP is an individual from which organs and samples originate.

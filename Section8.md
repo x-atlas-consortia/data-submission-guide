@@ -1,7 +1,8 @@
-## Section 8 - Creating a Data Upload Directory
+## Section 8 - Creating an Upload Directory
+This section describes the basic steps needed to create an upload directory to submit metadata and data uploads to the HIVE (HuBMAP) or CODCC (SenNet). <b>NOTE:</b> The steps required for this differ for <span style="background-color: aquamarine;">_Clinical_</span> versus _non-Clinical_ assays. _Prerequisite:_ The submission directory has been successfully validated locally.
 
-Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _Prerequisite:_ The submission directory has been successfully validated locally.
-<p>
+<hr>
+
 <ol>
     <li> Getting started </li> 
         <ul>
@@ -35,18 +36,16 @@ Use this directory to submit metadata to the HIVE (HuBMAP) or CODCC (SenNet). _
 
 <hr>
 
-<span style="background-color: aquamarine;">
-
-This section is for Clinical Assays only:
+<span style="background-color: aquamarine;">This section is for Clinical Assays only:</span>
 
 <ol>
-    <li> Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</li>
+    <li> <span style="background-color: aquamarine;">Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</span></li>
     <ul>
-        <li> Be sure to use an institutional email address (e.g. <em>name@institution.edu).</em></li>
-        <li> The Help desk relays this request for space on the protected endpoint to the Pitt team.</li>
-        <li> The Pitt team provides the assay team with the protected data endpoint.</li>
+        <li> <span style="background-color: aquamarine;">Be sure to use an institutional email address (e.g. <em>name@institution.edu).</em></span></li>
+        <li> <span style="background-color: aquamarine;">The Help desk relays this request for space on the protected endpoint to the Pitt team.</span></li>
+        <li> <span style="background-color: aquamarine;">The Pitt team provides the assay team with the protected data endpoint.</span></li>
     </ul>
-    <li> Upload your data as compressed / zipped folders, using Globus.</li>
+    <li> <span style="background-color: aquamarine;">Upload your data as compressed / zipped folders, using Globus.</span></li>
 </ol>
 
-**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded. </span>
+<span style="background-color: aquamarine;">**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded. </span>

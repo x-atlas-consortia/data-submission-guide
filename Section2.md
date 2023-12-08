@@ -1,4 +1,4 @@
-## Section 2 - Registering Donors or Sources, Organs, and Samples
+## Section 2 - Registering Data Sources
 **NOTE:** We strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
 
 ### Register a donor or source

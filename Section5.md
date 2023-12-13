@@ -21,14 +21,15 @@ Prepare a Submissions Directory. Use this directory for submitting datasets to t
 
 <hr>
 
-<span style="background-color: aquamarine;"> <b>Next steps for Clinical assays (ONLY)</b>. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.</span>
+<span style="background-color: aquamarine;"> 
+<b>Next steps for Clinical assays (ONLY)</b>. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.
 
-  2. <span style="background-color: aquamarine;">Create a root directory. Inside this directory place the metadata.tsv and contributors.tsv files.</span>
-  3. <span style="background-color: aquamarine;">Create a data subdirectory inside the root directory. When all the files are ready, compress the root directory using a utility (e.g. tar or .zip) to reduce its file size for submission.</span>
+  2. Create a root directory. Inside this directory place the metadata.tsv and contributors.tsv files.
+  3. Create a data subdirectory inside the root directory. When all the files are ready, compress the root directory using a utility (e.g. tar or .zip) to reduce its file size for submission.
 
- <span style="background-color: aquamarine;"><b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images. </span>
-   - <span style="background-color: aquamarine;">PPI <em>must</em> be removed before the metadata or images are made available through HuBMAP.</span>
-   - <span style="background-color: aquamarine;">This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant. </span>
+ <b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images.
+   - PPI <em>must</em> be removed before the metadata or images are made available through HuBMAP.
+   - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant. </span>
 
 <hr>
 

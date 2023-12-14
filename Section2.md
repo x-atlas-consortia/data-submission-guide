@@ -1,4 +1,4 @@
-## Section 2 - Registering Data Sources
+## Section 2 - Register Data Sources
 Directions for registering donors (HuBMAP), sources (SenNet), and organs or samples that derive from those donors or sources.
 <br>**NOTE:** We strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
 

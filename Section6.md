@@ -1,4 +1,4 @@
-## Section 6 - Preparing Metadata Files
+## Section 6 - Preparing Metadata 
 This section provides links to access relevant metadata templates, and provides information for assays that include antibodies or assay-specific channel IDs.
 Click the provided links in this section to access additional relevant information or resources.
 

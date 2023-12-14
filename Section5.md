@@ -21,15 +21,15 @@ Prepare a Submissions Directory. Use this directory for submitting datasets to t
 
 <hr>
 
-<div style="background-color: aquamarine;"> 
-<b>Next steps for Clinical assays (ONLY)</b>. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.
+<span style="background-color: aquamarine;"> 
+<b>Next steps for Clinical assays (ONLY)</b>. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.</span>
 
   2. Create a root directory. Inside this directory place the metadata.tsv and contributors.tsv files.
   3. Create a data subdirectory inside the root directory. When all the files are ready, compress the root directory using a utility (e.g. tar or .zip) to reduce its file size for submission.
 
- <b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images.
+ <span style="background-color: aquamarine;"><b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images.</span>
    - PPI <em>must</em> be removed before the metadata or images are made available through HuBMAP.
-   - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant. </div>
+   - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant.
 
 <hr>
 

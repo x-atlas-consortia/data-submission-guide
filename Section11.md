@@ -7,6 +7,6 @@ This section sets the stage for publication of your data. Once your data is revi
 <hr>
 
 <ol>
-  <li>Final review of data - All HuBMAP and SenNet data contributors will perform a final review of their data. </li>
-  <li>Data and metadata pass validation - The HIVE / CODCC contacts the data provider (PI or PM) with instructions on how to access the pre-release data for their approval before it is made public. </li>
+  <li><b>Final review of data </b> - All HuBMAP and SenNet data contributors will perform a final review of their data. </li>
+  <li><b>Data and metadata pass validation </b> - The HIVE / CODCC contacts the data provider (PI or PM) with instructions on how to access the pre-release data for their approval before it is made public. </li>
 </ol>

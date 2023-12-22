@@ -1,6 +1,5 @@
 ## Section 5 - Submissions Directory Preparation
-This section decribes setting up the submissions directory. Some directions differ for <span style="background-color: aquamarine;">_Clinical_</span> versus _non-Clinical_ assays. 
-Most steps are shared by both <span style="background-color: aquamarine;">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
+This section decribes setting up the submissions directory. Most steps in this section are shared by both <span style="background-color: aquamarine;">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
 
 <hr>
 

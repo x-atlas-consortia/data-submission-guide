@@ -23,13 +23,13 @@ When registering an organ (sample) on HuBMAP or SenNet which is supported in the
 **NOTE:** For more detailed instructions, refer to the SOP: <a href="https://zenodo.org/record/6628366#.ZAYfdXbMJD8">Using the CCF Registration User Interface</a>.
 
 **Donor sex and organ selection:**  
-**Note:** Some steps vary depending on whether you are using the "public" or HuBMAP's ingest portal version.
-1. Enter the donor’s name (This step is the same for both versions).
-2. Select the donor’s sex (This step is the same for both versions).
-3. Organ selection (This step varies based on the version you are using). <br>
+**Note:** Step 3 varies depending on whether you are using the "public" or HuBMAP's ingest portal version.
+1. Enter the donor’s name.
+2. Select the donor’s sex.
+3. Organ selection (Varies based on the version you are using). <br>
 _Public version_:
    - Click the picture of an organ to select it from the carousel.
-   - The organ may take a few seconds to load.
+   - The organ may take a few seconds to load. <br>
    
    _Ingest portal version_: The organ is pre-selected.
 4. Click **Start Registration** to complete this step and display the CCF Registration page. 
@@ -49,7 +49,7 @@ _Public version_:
 
 **Moving a tissue block:** There are 3 methods for moving a tissue block into position.
    - **Mouse:** When using the mouse, the tissue block can only be moved in _two_ dimensions at a time.
-   - **X, Y, Z axis sliders:** Adjust the rotation of the tissue block using the X, Y, Z axis sliders in the right (manipulation) pane.
+   - **X, Y, Z axis sliders:** Adjust the rotation of the tissue block using the X, Y, Z axis sliders in the _right_ pane.
    - **A, D, W, S, Q, E keys:** Move the tissue block by pressing these keys on your keyboard.
         - Each key press moves the tissue block by **0.5 mm** in a positive or negative direction.
         - Each pair of keys represent a dimensional axis:
@@ -58,12 +58,12 @@ _Public version_:
              - **E—Q = Z** axis
         - This control method can be used in both the Register and 3D Preview modes.
 
-**Inspecting placed blocks:** Click the **Previously Registered Blocks** toggle button in the left pane. 
+**Inspecting placed blocks:** Click the **Previously Registered Blocks** toggle button in the _left_ pane. 
    - This lets you inspect tissue blocks you placed before (for reference).
       - Click the toggle button to show all previously registered tissue blocks based on your browser’s local cache.
       - This feature is supported in most browsers.
    - Radio buttons (3D pane): Change the perspective using these radio buttons.
    - 3D Preview mode: To verify placement, switch to this mode using the corresponding toggle switch at the top of the 3D pane.
 
-Click **Register Location:** Review your registration data, then click the **Register Location** button.
+**Register Location:** Review your registration data, then click the **Register Location** button.
    - Your data will be saved and shared and the RUI window will close automatically. 

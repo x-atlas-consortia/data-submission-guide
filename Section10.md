@@ -34,8 +34,8 @@ These statuses display in the ingestion portal as a data set is processed.
 **Error** - An (unspecified) error occurred during HIVE or CODCC processing.
 
 </details>
-
-**Data Processing: Ingestion, HIVE / CODCC Validation, and Processing**
+<br>
+<b>Data Processing: Ingestion, HIVE / CODCC Validation, and Processing</b>
 
 #### Prerequisites
 

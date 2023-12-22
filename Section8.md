@@ -23,7 +23,7 @@ This section describes the basic steps needed to create an upload directory to s
            <li>SenNet members select: <b>Create an Entity > Data </b></li> 
            <li>This action initiates the data upload process.</li>
          </ul>
-     <li>Complete the required fields - Select a title that both you and the HIVE or CODCC can use to recognize <br> the data upload. </li>
+     <li>Complete the required fields - Select a title that both you and the HIVE or CODCC can use to recognize the data upload. </li>
      <li>Click <b>Create</b> - This creates a Globus folder where you upload your dataset files. </li>
      <li>Need to add or modify files? - Follow the highlighted Globus link. </li>
         <ul>

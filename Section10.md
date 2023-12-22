@@ -35,9 +35,9 @@ These statuses display in the ingestion portal as a data set is processed.
 
 </details>
 <br>
-<b>Data Processing: Ingestion, HIVE / CODCC Validation, and Processing</b>
+<b>Data Processing: Ingestion, HIVE / CODCC Validation, and Processing</b> <br>
 
-#### Prerequisites
+_Prerequisites_
 
   - Upload all data files to the team’s Globus folder.
   - Each dataset has a corresponding directory and row in an associated metadata template file.

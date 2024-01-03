@@ -14,9 +14,9 @@ When registering an organ (sample) on HuBMAP or SenNet which is supported in the
 - Entry of all anatomical structures that are a part of the tissue block
 
 **Spatial Registration** - As of February 2022, the RUI supports HRA Tissue Block registration for more than 50 organs.
-1. Is your organ supported? Open the <a href="https://hubmapconsortium.github.io/ccf-ui/rui/">standalone version of the RUI</a> and check the organ carousel.
-2. Gather materials needed to document from where (in the subject) the tissue block was extracted.
-3. Open the RUI: Open the relevant version of the RUI (standalone or ingest portal version).
+1. **Is your organ supported?** Open the <a href="https://hubmapconsortium.github.io/ccf-ui/rui/">standalone version of the RUI</a> and check the organ carousel.
+2. **Gather materials needed** to document from where (in the subject) the tissue block was extracted.
+3. **Open the RUI:** Open the relevant version of the RUI (standalone or ingest portal version).
    - The _Select an organ_ dialog displays when you browse to the RUI webpage.
    - If applicable, select the right or left version of the organ.
 

@@ -48,7 +48,7 @@ Follow the steps outlined below to validate any metadata spreadsheet (except Don
      - If errors are detected, use the Validator tools to correct any errors.
      - When no errors are found, you may safely upload your spreadsheet.
   4. **Download corrected template** - Once all errors are corrected, download the <em>corrected</em> metadata spreadsheet (TSV format).
-  5. **Hover the mouse cursor over the "Download" button**, then select **TSV format**.
+  5. **Hover the mouse cursor** over the **"Download" button**, then select **TSV format**.
   6. **Need to validate more templates?**  Repeat steps **1 - 4** (above) to validate additional metadata spreadsheets.
   7. **Upload validated TSVs:**
      - HuBMAP:

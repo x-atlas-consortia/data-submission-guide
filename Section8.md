@@ -4,7 +4,7 @@ This section describes the basic steps needed to create an upload directory to s
 <hr>
 
 <ol>
-    <li> Getting started </li> 
+    <li> <b>Getting started</b> </li> 
         <ul>
             <li>HuBMAP members:</li>
               <ul>
@@ -17,15 +17,15 @@ This section describes the basic steps needed to create an upload directory to s
               <li>Register a single source, sample, dataset, or publication or bulk register samples or data.</li>
               </ul>
           </ul>
-    <li>From the Navigation bar:</li>
+    <li><b>From the Navigation bar:</b></li>
         <ul>
            <li>HuBMAP members select <b>REGISTER NEW > BULK  > Data </b></li>
            <li>SenNet members select: <b>Create an Entity > Data </b></li> 
            <li>This action initiates the data upload process.</li>
          </ul>
-     <li>Complete the required fields - Select a title that both you and the HIVE or CODCC can use to recognize the data upload. </li>
-     <li>Click <b>Create</b> - This creates a Globus folder where you upload your dataset files. </li>
-     <li>Need to add or modify files? - Follow the highlighted Globus link. </li>
+     <li><b>Complete the required fields</b> - Select a title that both you and the HIVE or CODCC can use to recognize the data upload. </li>
+     <li><b>Click "Create"</b> - This creates a Globus folder where you upload your dataset files. </li>
+     <li><b>Need to add or modify files?</b> - Follow the highlighted Globus link. </li>
         <ul>
             <li><b>Save:</b>  To make changes to the <em>Title</em> or <em>Description</em> fields use the <b>Save</b> button.</li>
             <li><b>Submit:</b> Click <b>Submit</b> once all data has been uploaded to Globus.</li> 
@@ -39,13 +39,13 @@ This section describes the basic steps needed to create an upload directory to s
 <span style="background-color: aquamarine;">This section is for Clinical Assays only:</span>
 
 <ol>
-    <li> Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</li>
+    <li> <b>Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</b></li>
     <ul>
         <li> Be sure to use an institutional email address (e.g. <em>name@institution.edu).</em></li>
         <li> The Help desk relays this request for space on the protected endpoint to the Pitt team.</li>
         <li> The Pitt team provides the assay team with the protected data endpoint.</li>
     </ul>
-    <li> Upload your data as compressed / zipped folders, using Globus.</li>
+    <li> <b>Upload your data as compressed / zipped folders, using Globus.</b></li>
 </ol>
 
 <span style="background-color: aquamarine;">**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded. </span>

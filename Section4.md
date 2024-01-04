@@ -56,14 +56,14 @@ _Public version_:
              - **A—D = X** axis
              - **W—S = Y** axis
              - **E—Q = Z** axis
-        - This control method can be used in both the Register and 3D Preview modes.
+        - This control method can be used in both the _Register_ and _3D Preview_ modes.
 
 **Inspecting placed blocks:** Click the **Previously Registered Blocks** toggle button in the _left_ pane. 
    - This lets you inspect tissue blocks you placed before (for reference).
       - Click the toggle button to show all previously registered tissue blocks based on your browser’s local cache.
       - This feature is supported in most browsers.
-   - Radio buttons (3D pane): Change the perspective using these radio buttons.
-   - 3D Preview mode: To verify placement, switch to this mode using the corresponding toggle switch at the top of the 3D pane.
+   - **Radio buttons (3D pane):** Change the perspective using these radio buttons.
+   - **3D Preview mode:** To verify placement, switch to this mode using the corresponding toggle switch at the top of the 3D pane.
 
 **Register Location:** Review your registration data, then click the **Register Location** button.
-   - Your data will be saved and shared and the RUI window will close automatically. 
+   - Your data will be saved and shared and the _RUI window_ will close automatically. 

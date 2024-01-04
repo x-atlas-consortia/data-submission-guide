@@ -1,5 +1,6 @@
 This resource documents the key steps for TMCs, Assay teams, and others who need to upload data to the HuBMAP Data Ingest portal (HuBMAP Consortium) or SenNet Data Sharing Portal (SenNet Consortium).
-Additional information about each each step (or section) of the process and additional resources can be found here:<br>
+Additional information about each each step (or section) of the process and additional resources can be found here:
+<br>
 
 - [Data Ingest Guidance](https://drive.google.com/drive/u/0/folders/1N0k_OU0sW-a0CdFwdkL_zHoneqiStwPM) (PDF Slidedeck)
 

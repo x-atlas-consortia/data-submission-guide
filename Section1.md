@@ -3,7 +3,7 @@ Complete the prerequisites listed below prior to registering donors and samples 
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
 <hr>
 
-Register as a member, which includes requesting access to resources, completing any required agreements, and verifying your access.
+_Register as a member, which includes requesting access to resources, completing any required agreements, and verifying your access._
   1. **Request access to portals** (or other resources you will need):
      - <a href="http://portal.hubmapconsortium.org">HuBMAP Data portal</a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal</a>
        - These are separate from the HuBMAP and SenNet Consortium websites.
@@ -28,9 +28,9 @@ Register as a member, which includes requesting access to resources, completing 
       - Register as a HuBMAP or SenNet member.
       - Verify that you can successfully login to the <a href="https://hubmapconsortium.org/"> HuBMAP Consortium</a> or <a href="https://sennetconsortium.org/"> SenNet Consortium</a> website.
 
-  Register experimental protocols for your group:
+  _Register experimental protocols for your group:_
         
-  4. **Register experimental protocol(s)** via <a href="https://www.protocols.io/welcome">protocols.io</a>. Each registered protocol requires a digital object identifier (DOI).
+  4. **Register experimental protocol(s)** via <a href="https://www.protocols.io/welcome">protocols.io</a>. **Note:** _Each_ registered protocol requires a digital object identifier (DOI).
      - **Initial setup**
          - Select a lead and create accounts.
          - Create a workspace for your team (TMC, TTD, RTI, DP, etc).
@@ -38,17 +38,15 @@ Register as a member, which includes requesting access to resources, completing 
           - Break workflows into modules.
           - Create an overall protocol that references others.
           - See this Vanderbilt protocol as an example: <a href="https://dx.doi.org/10.17504/protocols.io.bfskjncw">VU BIOMIC Kidney pipeline</a>
-       - **Create a New protocol**
-          - Many templates are available
+      - **Create / Publish a New protocol**
+          - Use a template, many templates are available.
+          - Include HuBMAP (or SenNet) and team name as keywords.
+          - Publish the protocol.
           - Pick the DOI option when publishing.
-        - **Create / publish a new protocol**
-          - Use a template
-          - Include HuBMAP (or SenNet) and team name as keywords
-          - Publish the protocol
           - For additional examples, see also:
             - <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a>
             - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a>
-        - **Modify an existing protocol**
+       - **Modify an existing protocol**
           - Open an existing protocol.
           - Use _Edit New Version_ or _Edit New Fork_.
           - For detailed directions, click on _"Details about Creating (or Publishing) Protocols..."_ or related sections below.

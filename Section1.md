@@ -12,7 +12,8 @@ Register as a member, which includes requesting access to resources, completing 
            - Your Globus ID must be either an institutional ID or an <a href="https://www.era.nih.gov/"> eRA Commons </a> ID.
            - <a href="https://docs.globus.org/how-to/link-to-existing/">Check that your institution ID is linked</a> to your Globus ID.
            - See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.
-     - <em>Write</em> access to your team's Globus folder. This will be granted <em>after</em> confirming that you will submit data via the<a href="http://ingest.hubmapconsortium.org/"> HuBMAP ingest portal </a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal </a> (required).
+     - _Write_ access to your team's Globus folder
+       - This will be granted <em>after</em> confirming that you will submit data via the<a href="http://ingest.hubmapconsortium.org/"> HuBMAP ingest portal </a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal </a> (required).
      - <a href="http://protocols.io">Protocols.io</a>
        - <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a> (required for HuBMAP).
        - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a> (required for SenNet).
@@ -33,7 +34,7 @@ Register as a member, which includes requesting access to resources, completing 
      - **Initial setup**
          - Select a lead and create accounts.
          - Create a workspace for your team (TMC, TTD, RTI, DP, etc).
-      -**Organize your protocols**
+      - **Organize your protocols**
           - Break workflows into modules.
           - Create an overall protocol that references others.
           - See this Vanderbilt protocol as an example: <a href="https://dx.doi.org/10.17504/protocols.io.bfskjncw">VU BIOMIC Kidney pipeline</a>
@@ -46,11 +47,11 @@ Register as a member, which includes requesting access to resources, completing 
           - Publish the protocol
           - For additional examples, see also:
             - <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a>
-            - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a></li>
+            - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a>
         - **Modify an existing protocol**
           - Open an existing protocol.
-          - Use <em>Edit New Version</em> or <em>Edit New Fork</em>.
-          - For detailed directions, click on <em>"Details about Creating (or Publishing) Protocols..."</em> or related sections below.
+          - Use _Edit New Version_ or _Edit New Fork_.
+          - For detailed directions, click on _"Details about Creating (or Publishing) Protocols..."_ or related sections below.
 
 <hr> 
   
@@ -63,7 +64,7 @@ Register as a member, which includes requesting access to resources, completing 
   
 <br />
 <details>
-<summary>Details about creating New Protocols</summary>
+<summary>Details about Creating New Protocols</summary>
 
 <h3 id="Create-New-Protocol">Creating an entirely new protocol (from "scratch"):</h3>
 

@@ -1,7 +1,7 @@
 ## Section 1 - Prerequisites
 Complete the prerequisites listed below prior to registering donors and samples or uploading any data.
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
-<hr>
+<hr style="width:25%; text-align:center">
 
 _Register as a member, which includes requesting access to resources, completing any required agreements, and verifying your access._
   1. **Request access to portals** (or other resources you will need):

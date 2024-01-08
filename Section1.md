@@ -1,7 +1,6 @@
 ## Section 1 - Prerequisites
 Complete the prerequisites listed below prior to registering donors and samples or uploading any data.
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
-<hr style="height:30px">
 
 _Register as a member, which includes requesting access to resources, completing any required agreements, and verifying your access._
   1. **Request access to portals** (or other resources you will need):
@@ -50,9 +49,7 @@ _Register as a member, which includes requesting access to resources, completing
           - Open an existing protocol.
           - Use _Edit New Version_ or _Edit New Fork_.
           - For detailed directions, click on _"Details about Creating (or Publishing) Protocols..."_ or related sections below.
-
-<hr style="width:25%; text-align:center"> 
-  
+ 
 ### Different ways to create a New Protocol
 
 1. Create an entirely new protocol from "scratch" at [protocols.io](http://protocols.io/).

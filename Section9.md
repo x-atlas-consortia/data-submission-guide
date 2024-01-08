@@ -1,6 +1,7 @@
 ## Section 9 - Data Upload
 
-**Submitting Donor or Source Data** <br>
+**Submitting Donor or Source Data**
+
 To upload your data, request that the applicable Helpdesk set up a Globus directory. Next upload your data for HIVE or CODCC processing.
 _Prerequisite:_ Your submission donors / sources and samples have already been registered. **NOTE:** Donor / source privacy is a top priority when HuBMAP and SenNet receive data from the community.
 

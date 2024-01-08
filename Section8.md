@@ -1,8 +1,6 @@
 ## Section 8 - Creating an Upload Directory
 This section describes the basic steps needed to create an upload directory to submit metadata and data uploads to the HIVE (HuBMAP) or CODCC (SenNet). <b>NOTE:</b> The steps required for this differ for <span style="background-color: aquamarine;">_Clinical_</span> versus _non-Clinical_ assays. _Prerequisite:_ The submission directory has been successfully validated locally.
 
-<hr>
-
 <ol>
     <li> <b>Getting started</b> </li> 
         <ul>
@@ -33,8 +31,6 @@ This section describes the basic steps needed to create an upload directory to s
             <li>Contact the <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> if further processing by the CODCC is needed. </li>
        </ul>
 </ol>
-
-<hr>
 
 <span style="background-color: aquamarine;">This section is for Clinical Assays only:</span>
 

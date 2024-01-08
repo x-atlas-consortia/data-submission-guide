@@ -2,8 +2,6 @@
 This section provides links to access relevant metadata templates, and provides information for assays that include antibodies or assay-specific channel IDs.
 Click the provided links in this section to access additional relevant information or resources.
 
-<hr>
-
 **Create metadata files.** Download and complete the latest version of each required metadata template:
   - assay-specific
   - <a href="https://hubmapconsortium.github.io/ingest-validation-tools/contributors/current/">contributors</a>
@@ -26,8 +24,6 @@ Click the provided links in this section to access additional relevant informati
    - If _ALL_ datasets in your assay metadata use the same set of antibodies, you may submit just one <em>antibodies</em> file.
      
 **NOTE:** A separate antibody _validation report_ is also required. 
-
-<hr>
 
 **If datasets in the submission use _Different sets_ of antibodies — OR —  the same set, but different lots...**
   - Each unique antibody set must be listed in a separate _antibody.tsv_ with a unique name:

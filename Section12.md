@@ -2,8 +2,6 @@
 
 After the registration of a dbGaP study by a data provider, the submission of data to that dbGaP study is a joint process undertaken by both the data provider and the HIVE or CODCC. We encourage data providers to create a dbGaP study and notify the HIVE or CODCC as early as possible. **NOTE:** The dbGaP submission process can take up to _six months_ after the publication of your sequence data in the HuBMAP Data portal or SenNet Data Sharing portal. 
 
-<hr>
-
 1. **Identify an NIH GPA:** The Data Provider PI works with their Program Officer to identify an NIH Genomic Program Administrator (GPA) who will help them prepare a study for dbGaP following the [process outlined here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap). 
 2. **Register dbGaP study / create Bioproject:** The Data Provider PI and NIH GPA register a study in the [dbGaP Submission System](https://dbgap.ncbi.nlm.nih.gov/dbgap/ss/dbgapss.cgi?login) and create a Bioproject for the study. This step should be done by the data provider as early as possible, ideally before any data are generated. 
 3. **Data Provider PI / PM contact the HIVE / CODCC:** The Data Provider PI or project manager (PM) should contact the HIVE as soon as a dbGaP study has been registered, to initiate HIVE (or CODCC) involvement in the process. 

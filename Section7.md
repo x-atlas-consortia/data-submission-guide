@@ -5,8 +5,6 @@
   
 **IMPORTANT:** When a new version of a metadata schema is generated, it will be published on the _first_ day of the _next_ month.
 
-<hr>
-
 **Locally validate the submissions directory:** Use the _validate_submission.py_ code, following the instructions in the <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">README</a>.
   - **Run the validation code.** This code validates the submission directory content against the appropriate assay-specific metadata & data directory schema.
   - **Correct any errors.** Repeat until no errors occur.

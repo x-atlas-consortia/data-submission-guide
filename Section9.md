@@ -5,8 +5,6 @@
 To upload your data, request that the applicable Helpdesk set up a Globus directory. Next upload your data for HIVE or CODCC processing.
 _Prerequisite:_ Your submission donors / sources and samples have already been registered. **NOTE:** Donor / source privacy is a top priority when HuBMAP and SenNet receive data from the community.
 
-<hr>
-
 1. **Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> to create a Helpdesk ticket** (for tracking purposes).
    - **Request donor (or source) directory:**
       - HuBMAP - The HIVE creates a <a href="https://app.globus.org/groups">Globus</a> directory for your donor information.

@@ -4,7 +4,7 @@ This section covers several topics including: Data Ingestion, HIVE / CODCC Valid
 Data uploads go through several statuses during the ingest process.
 
 <details>
-<summary>See a Flow Diagram of the Data Ingest process </summary>
+<summary>See a Data Ingest Flow Diagram</summary>
   
 #### Data Upload Flow Diagram 
 ![flow diagram](https://github.com/hubmapconsortium/data_submission_guide/blob/971828bc67887210ce9131bc56de1c898f7469e8/DataUploadFlow.png)

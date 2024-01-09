@@ -102,7 +102,7 @@ _Register as a member, which includes requesting access to resources, completing
 
 <details>
 
-<summary>Details about updating a protocol you created</summary>
+<summary>Updating a protocol you created</summary>
 
 ### Revise a Protocol you created previously
 
@@ -115,7 +115,7 @@ _Register as a member, which includes requesting access to resources, completing
 
 <details>
 
-<summary>Details about updating a protocol someone else created</summary>
+<summary>Updating a protocol someone else created</summary>
 
 ### Create a new protocol based on someone else's Protocol 
 

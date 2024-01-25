@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 9 - Data Upload
 
 **Submitting Donor or Source Data**

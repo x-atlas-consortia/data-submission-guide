@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 3 - Validating Metadata
 Directions for adding Metadata for an organ or samples and validating that metadata. Note that the procedures for uploading the validated metadata currently differ between HuBMAP and SenNet.
 Click the provided links in this section to access additional relevant information or resources.

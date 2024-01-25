@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 7 - Local Validation
 
 **NOTE:** TMCs are required to run the submission validation locally BEFORE uploading to Globus. 

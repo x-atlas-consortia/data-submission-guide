@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 10 - Data Processing
 This section covers several topics including: Data Ingestion, HIVE / CODCC Validation, and Processing. You can also see the flow of data uploads and datasets through the system as well and more information about the various stages/statuses that occur during these processes.
 

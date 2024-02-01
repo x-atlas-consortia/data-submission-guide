@@ -7,11 +7,11 @@ Directions for registering donors (in HuBMAP), sources (in SenNet), and organs o
   1. **Search for the donor or source:** Verify that the donor or source has not already been registered.
   2. **From the Navigation bar select:**
      - In HuBMAP: <b>REGISTER NEW > INDIVIDUAL > Donor</b>
-     - In SenNet: <b>Create an Entity > Source</b>
-  3. **Record donor or source information.** Do <em>NOT</em> include <a href="https://ingest.hubmapconsortium.org/new/donor">protected health information</a> about a donor or source, organ, or specimen.
+     - In SenNet: <b>Create an Entity > Source</b> <br>
+  3. **Record donor or source information.** Do <em>NOT</em> include <a href="https://ingest.hubmapconsortium.org/new/donor">protected health information</a> about a donor or source, organ, or specimen. <br>
   4. **Complete registration of the Donor or source:**
      - In HuBMAP click <b>Generate ID</b> to complete the registration process.
-     - In SenNet click <b>Submit</b> to complete the registration process.</li>
+     - In SenNet click <b>Submit</b> to complete the registration process.
 
 **IMPORTANT** _Prerequisite:_ Before registering a sample or organ, the associated donor or source <em>must</em> be registered. You also need the ID of the organ and the DOI (from <a href="http://protocols.io">protocols.io</a>) for the case selection protocol.
   

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 1 - Prerequisites
 Complete the prerequisites listed below prior to registering donors and samples or uploading any data.
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.

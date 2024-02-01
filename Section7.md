@@ -1,7 +1,11 @@
+---
+layout: default
+---
+
 ## Section 7 - Local Validation
 
 **NOTE:** TMCs are required to run the submission validation locally BEFORE uploading to Globus. 
-  - <span style="background-color: aquamarine;"> Clinical assays do not need to complete this step.</span>
+  - <span class="txt--highlight"> Clinical assays do not need to complete this step.</span>
   
 **IMPORTANT:** When a new version of a metadata schema is generated, it will be published on the _first_ day of the _next_ month.
 

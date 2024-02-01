@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 10 - Data Processing
 This section covers several topics including: Data Ingestion, HIVE / CODCC Validation, and Processing. You can also see the flow of data uploads and datasets through the system as well and more information about the various stages/statuses that occur during these processes.
 
@@ -7,7 +11,7 @@ Data uploads go through several statuses during the ingest process.
 <summary>See a Data Ingest Flow Diagram</summary>
   
 #### Data Upload Flow Diagram 
-![flow diagram](https://github.com/hubmapconsortium/data_submission_guide/blob/971828bc67887210ce9131bc56de1c898f7469e8/DataUploadFlow.png)
+![flow diagram](DataUploadFlow.png)
 
 </details>
   
@@ -44,23 +48,21 @@ _Prerequisites_
 
 **NOTE:** Multiple sets of data can be uploaded and the same data set _could_ be uploaded more than once. Each data upload is assigned a UUID (universally unique identifier), but not a version number, until it has completed the entire data ingest, validation, and approval process and is published.
 
-  1. **Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a>** OR **<a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>** once all the files associated with an upload have been uploaded. This lets them know that the upload is ready for ingestion (not an automated process).
+1. **Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a>** OR **<a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>** once all the files associated with an upload have been uploaded. This lets them know that the upload is ready for ingestion (not an automated process).
 
- **IMPORTANT:** Include the _root path(s)_ of the specific data upload(s) in the email. 
- 
-  2. **The HIVE (or CODCC) extracts:** Each data upload, corresponding data, and registers them as individual datasets.
-  3. **The HIVE (or CODCC) processes:** The data and metadata that you have uploaded for ingestion. If ingestion fails, or if additional information is needed, the data provider will be contacted using the ticketing system.
+     **IMPORTANT:** Include the _root path(s)_ of the specific data upload(s) in the email. 
 
-<span style="background-color: aquamarine;">
-<b>NOTE:</b> For Clinical assay data, the Pitt team will de-identify this data and submit the scrubbed data to the HIVE / CODCC. The provider of the data will need to review and approve the release of the de-identified data in the <a href="#publication">publish step</a>.</span>
+2. **The HIVE (or CODCC) extracts:** Each data upload, corresponding data, and registers them as individual datasets.
+3. **The HIVE (or CODCC) processes:** The data and metadata that you have uploaded for ingestion. If ingestion fails, or if additional information is needed, the data provider will be contacted using the ticketing system.
 
-<br>
+     <span class="txt--highlight">
+     <b>NOTE:</b> For Clinical assay data, the Pitt team will de-identify this data and submit the scrubbed data to the HIVE / CODCC. The provider of the data will need to review and approve the release of the de-identified data in the <a href="#publication">publish step</a>.</span>
 
-  4. **Pipeline processing:** The HIVE / CODCC processes certain assays by standardized pipelines (where applicable).
-     - **CODEX** - Cyclic immunofluorescence imaging: The pipeline uses Cytokit + SPRM
-     - **ATAC-seq** - (Including sc-, sn-, and bulk variants): The pipeline uses SnapTools + SnapATAC
-     - **RNA-seq** - (Including sc-,sn-,bulk): The pipeline uses Salmon + Scanpy + scVelo
-     - **Other imaging data:** SPRM
+4. **Pipeline processing:** The HIVE / CODCC processes certain assays by standardized pipelines (where applicable).
+   - **CODEX** - Cyclic immunofluorescence imaging: The pipeline uses Cytokit + SPRM
+   - **ATAC-seq** - (Including sc-, sn-, and bulk variants): The pipeline uses SnapTools + SnapATAC
+   - **RNA-seq** - (Including sc-,sn-,bulk): The pipeline uses Salmon + Scanpy + scVelo
+   - **Other imaging data:** SPRM
     
 Additional pipelines will be added over time, as needed. Pipelines are available for download use by others, including TMCs. 
 
@@ -94,6 +96,6 @@ These statuses apply to datasets created from a data upload. Once a data upload 
   
 #### Dataset Flow Diagram 
 
-![flow diagram](https://github.com/hubmapconsortium/data_submission_guide/blob/971828bc67887210ce9131bc56de1c898f7469e8/DatasetFlow.png)
+![flow diagram](DatasetFlow.png)
 
 </details>

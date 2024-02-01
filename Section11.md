@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Section 11 - Data Review
 
 **Final Review, Data Approval, and Publication**

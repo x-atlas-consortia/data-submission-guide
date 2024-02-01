@@ -1,5 +1,9 @@
+---
+layout: default
+---
+
 ## Section 5 - Submissions Directory Preparation
-This section decribes setting up the submissions directory. Most steps in this section are shared by both <span style="background-color: aquamarine;">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
+This section decribes setting up the submissions directory. Most steps in this section are shared by both <span class="txt--highlight">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
 
 **Prepare a Submissions Directory.** Use this directory for submitting datasets to the HIVE (HuBMAP) or CODCC (SenNet).
   - Set up the directory based on the assay-specific directory schema for each assay in Github: (e.g. [CODEX Directory structure](https://hubmapconsortium.github.io/ingest-validation-tools/codex/)).
@@ -16,13 +20,13 @@ This section decribes setting up the submissions directory. Most steps in this s
   2. **Assay-specific directory schema.** Access via GitHub link (e.g., <a href="https://software.docs.hubmapconsortium.org/assays/codex">CODEX example</a>) or <a href="https://software.docs.hubmapconsortium.org/metadata">HuBMAP metadata specifications</a> in the portal. 
   3. **Organize the dataset components** (i.e., data and metadata files) in a submission directory according to the required directory structure specified in the GitHub page for the assay (e.g., <a href="https://github.com/hubmapconsortium/ingest-validation-tools/tree/main/docs/codex">CODEX directory structure</a>).
 
-<span style="background-color: aquamarine;"> 
+<span class="txt--highlight"> 
 <b>Next steps for Clinical assays (ONLY)</b>. Clinical assays include the following: <b>Body CT, MRI, MicroCT, OCT,</b> and <b>Ultrasound</b>.</span>
 
   2. **Create a root directory.** Inside this directory place the metadata.tsv and contributors.tsv files.
   3. **Create a data subdirectory inside the root directory.** When all the files are ready, compress the root directory using a utility (e.g. tar or .zip) to reduce its file size for submission.
 
- <span style="background-color: aquamarine;"><b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images.</span>
+ <span class="txt--highlight"><b>NOTE:</b> Clinical assays may have protected patient information (PPI) embedded in the metadata or images.</span>
    - **PPI _must_ be removed** before the metadata or images are made available through HuBMAP.
    - This process allows us to review and remove the information in a way that is Institutional Review Board (IRB) compliant.
 

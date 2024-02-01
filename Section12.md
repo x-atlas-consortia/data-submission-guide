@@ -24,11 +24,12 @@ These forms will include at least the following for HuBMAP projects:
     - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asampattr"> Sample Attributes DS & DD</a>: To be completed by the HIVE data submitter. 
    <br> **NOTE:** DS = Dataset, DD = Data Dictionary 
 
-Depending on the answers provided to the _Submission Portal Questionnaire_, the designated data submitter may also need to complete the following files for upload: 
-  - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#ncbidb">Mapping Study Samples</a> (e.g. Sample GEO Mapping DS and DD)
-  - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#crucialdata">Subject Phenotypes DS & DD</a>
-  - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aped">Pedigree DS & DD</a>
-  - Study Documents (consent forms, protocols, etc.) 
+   Depending on the answers provided to the _Submission Portal Questionnaire_, the designated data submitter may also need to complete the following files for upload: 
+   - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#ncbidb">Mapping Study Samples</a> (e.g. Sample GEO Mapping DS and DD)
+   - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#crucialdata">Subject Phenotypes DS & DD</a>
+   - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aped">Pedigree DS & DD</a>
+   - Study Documents (consent forms, protocols, etc.)
+
 7. **Review <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#16-how-do-i-verify-that-my-ds-an">checklist</a>, submit forms:** The HIVE (or CODCC) data submitter reviews the checklist to ensure that the Phenotype Datasets and Data dictionary files pass the dbGaP quality control tests. Then the HIVE (or CODCC) data submitter submits all required forms.
 8. **dbGaP contacts submitters:** dbGaP Phenotype curator contacts the submitters when the above information has been loaded into dbGaP and entities have received NCBI BioSample and SRA IDs.
 9. **Upload sequence metadata:** The HIVE (or CODCC) data submitter follows directions to <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#20-how-do-i-submit-files-for-hig">upload sequencing metadata</a> and to <a href=" https://www.ncbi.nlm.nih.gov/sra/docs/submitdbgap/">submit raw sequence reads</a>, working with an SRA curator, to upload to a protected area of SRA.

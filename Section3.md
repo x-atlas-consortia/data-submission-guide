@@ -58,6 +58,6 @@ Follow the steps outlined below to validate any metadata spreadsheet (except Don
          - The Helpdesk will manually validate and upload the files.
       - SenNet:
          - Use the <em>Upload Metadata</em> dropdown from the <em>Navigation Bar</em> in the <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing portal</a>
-         - Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).</li>
+         - Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).
 
 **NOTE:** To learn more about metadata validation, see also the <a href="https://docs.google.com/document/d/1lfgiDGbyO4K4Hz1FMsJjmJd9RdwjShtJqFYNwKpbcZY/edit#heading=h.d6xf2xeysl78">Metadata Validation Workflow</a>.

@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Section 8 - Creating an Upload Directory
-This section describes the basic steps needed to create an upload directory to submit metadata and data uploads to the HIVE (HuBMAP) or CODCC (SenNet). <b>NOTE:</b> The steps required for this differ for <span style="background-color: aquamarine;">_Clinical_</span> versus _non-Clinical_ assays. _Prerequisite:_ The submission directory has been successfully validated locally.
+This section describes the basic steps needed to create an upload directory to submit metadata and data uploads to the HIVE (HuBMAP) or CODCC (SenNet). <b>NOTE:</b> The steps required for this differ for <span class="txt--highlight">_Clinical_</span> versus _non-Clinical_ assays. _Prerequisite:_ The submission directory has been successfully validated locally.
 
 <ol>
     <li> <b>Getting started</b> </li> 
@@ -36,7 +36,7 @@ This section describes the basic steps needed to create an upload directory to s
        </ul>
 </ol>
 
-<span style="background-color: aquamarine;">This section is for Clinical Assays only:</span>
+<span class="txt--highlight">This section is for Clinical Assays only:</span>
 
 <ol>
     <li> <b>Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</b></li>
@@ -48,4 +48,4 @@ This section describes the basic steps needed to create an upload directory to s
     <li> <b>Upload your data as compressed / zipped folders, using Globus.</b></li>
 </ol>
 
-<span style="background-color: aquamarine;">**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded. </span>
+<span class="txt--highlight">**IMPORTANT:** This location is distinct from where NON-Clinical HIVE or CODCC data is uploaded. </span>

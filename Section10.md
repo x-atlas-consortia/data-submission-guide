@@ -11,7 +11,7 @@ Data uploads go through several statuses during the ingest process.
 <summary>See a Data Ingest Flow Diagram</summary>
   
 #### Data Upload Flow Diagram 
-![flow diagram](https://github.com/hubmapconsortium/data_submission_guide/blob/971828bc67887210ce9131bc56de1c898f7469e8/DataUploadFlow.png)
+![flow diagram](DataUploadFlow.png)
 
 </details>
   
@@ -98,6 +98,6 @@ These statuses apply to datasets created from a data upload. Once a data upload 
   
 #### Dataset Flow Diagram 
 
-![flow diagram](https://github.com/hubmapconsortium/data_submission_guide/blob/971828bc67887210ce9131bc56de1c898f7469e8/DatasetFlow.png)
+![flow diagram](DatasetFlow.png)
 
 </details>

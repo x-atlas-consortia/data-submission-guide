@@ -39,7 +39,7 @@ Click the provided links in this section to access additional relevant informati
   
 ### Validation procedure
   
-Follow the steps outlined below to validate any metadata spreadsheet (except Donor metadata) using the Validator.</li>
+Follow the steps outlined below to validate any metadata spreadsheet (except Donor metadata) using the Validator.
   1. **Upload completed template** - Upload your completed Excel spreadsheet (metadata template) to the Validator (see link above).
   2. **Click "Start Validating" to check your spreadsheet.**
      - Any detected errors will display.

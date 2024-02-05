@@ -20,6 +20,7 @@ Directions for registering donors (in HuBMAP), sources (in SenNet), and organs o
      <ul>
        <li>In HuBMAP click <b>Generate ID</b> to complete the registration process.</li>
        <li>In SenNet click <b>Submit</b> to complete the registration process.</li>
+     </ul>
   </ol>
 
 **IMPORTANT** _Prerequisite:_ Before registering a sample or organ, the associated donor or source <em>must</em> be registered. You also need the ID of the organ and the DOI (from <a href="http://protocols.io">protocols.io</a>) for the case selection protocol.

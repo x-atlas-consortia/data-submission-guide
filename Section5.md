@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## Section 5 - Submissions Directory Preparation
-test
 This section decribes setting up the submissions directory. Most steps in this section are shared by both <span class="txt--highlight">_Clinical_</span> and _non-Clinical_ assays, except as noted below.
 
 **Prepare a Submissions Directory.** Use this directory for submitting datasets to the HIVE (HuBMAP) or CODCC (SenNet).

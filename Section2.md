@@ -8,14 +8,19 @@ Directions for registering donors (in HuBMAP), sources (in SenNet), and organs o
 ### Register a donor or source
   - **Register a donor** via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. A <em>donor</em> in HuBMAP is an individual from which organs and samples originate.
   - **Register a source** via <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing Portal</a>. A <em>source</em> in SenNet is the organism being studied.
-  1. **Search for the donor or source:** Verify that the donor or source has not already been registered.
-  2. **From the Navigation bar select:**
-     - In HuBMAP: <b>REGISTER NEW > INDIVIDUAL > Donor</b>
-     - In SenNet: <b>Create an Entity > Source</b>
-  3. **Record donor or source information.** Do <em>NOT</em> include <a href="https://ingest.hubmapconsortium.org/new/donor">protected health information</a> about a donor or source, organ, or specimen.
-  4. **Complete registration of the Donor or source:**
-     - In HuBMAP click <b>Generate ID</b> to complete the registration process.
-     - In SenNet click <b>Submit</b> to complete the registration process.</li>
+<ol>
+  <li><b>Search for the donor or source:</b> Verify that the donor or source has not already been registered.</li>
+  <li><b>From the Navigation bar select:</b></li>
+  <ul>
+    <li>In HuBMAP: <b>REGISTER NEW > INDIVIDUAL > Donor</b></li>
+    <li>In SenNet: <b>Create an Entity > Source</b></li>
+  </ul>
+  <li><b>Record donor or source information.</b> Do <em>NOT</em> include <a href="https://ingest.hubmapconsortium.org/new/donor">protected health information</a> about a donor or source, organ, or specimen.</li>
+  <li><b>Complete registration of the Donor or source:</b></li>
+     <ul>
+       <li>In HuBMAP click <b>Generate ID</b> to complete the registration process.</li>
+       <li>In SenNet click <b>Submit</b> to complete the registration process.</li>
+  </ol>
 
 **IMPORTANT** _Prerequisite:_ Before registering a sample or organ, the associated donor or source <em>must</em> be registered. You also need the ID of the organ and the DOI (from <a href="http://protocols.io">protocols.io</a>) for the case selection protocol.
   

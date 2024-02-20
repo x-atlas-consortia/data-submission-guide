@@ -5,7 +5,7 @@ layout: default
 ## Section 3 - Validating Metadata
 Directions for adding Metadata for an organ or samples and validating that metadata. Note that the procedures for uploading the validated metadata currently differ between HuBMAP and SenNet.
 Click the provided links in this section to access additional relevant information or resources.
-<b>Testing GH actions</b>
+
 <ol>
   <li> <b>Download metadata template(s):</b> Access lists of metadata schemas (and related information) from HuBMAP’s <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page.</li>
   <b>Note:</b> Many HuBMAP metadata schemas are shared by SenNet. The <a href="https://docs.sennetconsortium.org/libraries/ingest-validation-tools/schemas/source-murine">murine source schema</a> is <em>unique</em> to SenNet. 

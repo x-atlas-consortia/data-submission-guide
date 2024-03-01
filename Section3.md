@@ -37,7 +37,9 @@ Click the provided links in this section to access additional relevant informati
       <li> Includes a user manual and tutorial videos.</li>
       <li> Will assist you with fixing any errors your metadata spreadsheet may contain.</li>
     </ul>
-    <li> TMCs are required to validate their metadata BEFORE uploading it to the HIVE or CODCC.</li>
+    <li> TMCs are <em>required</em> to validate their metadata BEFORE uploading it to the HIVE or CODCC.</li>
+    <li> As a best practice, data providers should run their metadata spreadsheets through the Metadata Validator <em>regularly</em> as they are preparing their submissions.</li> 
+    <li> In this way, they can "check their work as they go" and verify that the metadata they are collecting will pass validation when submitted.</li>
   </ul>
 </ol>
   

@@ -53,6 +53,8 @@ _Register as a member, which includes requesting access to resources, completing
           - Open an existing protocol.
           - Use _Edit New Version_ or _Edit New Fork_.
           - For detailed directions, click on _"Details about Creating (or Publishing) Protocols..."_ or related sections below.
+
+**Note:** There are three different types of protocols required. **Case selection protocols** describe the inclusion and exclusion criteria applied to donors/sources in the study. You will be prompted to provide a case selection protocol DOI at source/sample registration. **Sample preparation protocols** outline a lab's procedure to derive a tissue sample from a donor/source. You will be prompted to provide a sample preparation protocol DOI at organ, tissue block, tissue section, and tissue suspension registration. **Assay preparation protocols** describe how an experiment for a specific modality is carried out. The assay preparation protocol DOI should be included in the assay metadata TSV file.
  
 ### Different ways to create a New Protocol
 

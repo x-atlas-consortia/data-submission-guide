@@ -75,17 +75,25 @@ In a number of scenarios, the user might have doubts about whether the tissue sa
 
 In case your tissue sample is missing metadata or there is another issue that you would like to report: 
 1. Open <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0faIih0S-1zqn5FCdalCF7YTxK7ECMgg0svVv0dvlEF7gKQ/viewform">this Google Form</a> and select your issue from among the multiple choices. If your specific issue is not listed, select Other and describe it in brief
-
-![Multiple choices from the referenced Google Form in Step 1](RUIGoogleFormMultipleChoices.png)
-
 2. Based on your answer, the Form will either grant you an exemption or ask that you proceed with the registration process. The rest of the steps below assume the latter condition.
 3. Make sure you document the issue in as much detail as possible in the Form.
 4. *Without closing the Google Form*, proceed with entering tissue metadata as described in the <a href="https://docs.google.com/document/d/137yNId7DJBtt9xGccItC7jVAwz4FYALm_IIXD7e6_7A/edit#heading=h.jtxxdtmkcar2">Enter Metadata</a> section and placing the tissue as described in the <a href="https://docs.google.com/document/d/137yNId7DJBtt9xGccItC7jVAwz4FYALm_IIXD7e6_7A/edit#heading=h.ezmdrr41kbmq">Place Tissue</a> section.
 5. When reviewing the registration data as described in the <a href="https://docs.google.com/document/d/137yNId7DJBtt9xGccItC7jVAwz4FYALm_IIXD7e6_7A/edit#heading=h.2linlxoj1erk">Review and Download Registration Data</a> section, copy and paste the Alignment ID in the Google Form.
+6. Submit the Google Form and continue with the registration process.
 
+<details>
+<summary>Multiple Choices Referenced in Step 1</summary>
+
+![Multiple Choices](RUIGoogleFormMultipleChoices.png)
+
+</details>
+
+<details>
+<summary>Where to Get the Alignment ID for Step 5</summary>
+  
 ![Demonstrating where to get the Alignment ID](AlignmentIDDemonstration.png)
 
-6. Submit the Google Form and continue with the registration process.
+</details>
 
 ### Best Practices
 Below is a list of best practices to ensure that the spatial registration process goes smoothly and the likelihood of errors is minimized:

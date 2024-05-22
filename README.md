@@ -1,13 +1,7 @@
-# data_submission_guide
+# Data Submission Guide
 A documentation site for the Data Submission Guide used by both HuBMAP and SenNet
-This site is experimental at this phase **11/15/2023**.
-
-Update **12/14/2023** - The draft version has been released to key stakeholders for review.
-- **dev** branch created from **main** (exact copy of **main**)
-- removed all unneeded files in **main**; these files will be retained in the **dev** branch for archival purposes
 
 The Markdown (MD) files in this repo consist of sections in the Data Submission Guide (DSG), a resource for data submitters in the HuBMAP and SenNet Consortia.
-The files are pulled into a WordPress page (via a plugin) and display as a webpage on the HuBMAP Consortium website. This process was tested for the HuBMAP Consortium. 
-This process can be used by the SenNet consortium to make this content availble for their members.
+The files are syncronized via GitHub Actions to both the SenNet (https://docs.sennetconsortium.org/data-submission) and HuBMAP documentation (https://docs.hubmapconsortium.org/data-submission) sites which are hosted by GitHub Pages via repos https://github.com/sennetconsortium/documentation and https://github.com/hubmapconsortium/documentation respectively. 
 
-Updating and maintaining this content is simply a matter of updating the relevant MD file(s) as changes are needed.
+Updating and maintaining this content is simply a matter of updating the relevant MD file(s), PR/merge into main as changes are needed, and GitHub will automatically distribute the changes to the dependent documentation sites.

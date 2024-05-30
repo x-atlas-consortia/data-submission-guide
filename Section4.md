@@ -73,7 +73,7 @@ _Public version_:
 ### Tissue Registration Issues
 In a number of situations, the user might have doubts about whether the tissue sample can or should be spatially registered. For example, the tissue might be missing some metadata or there might be a mismatch between tissue sample size and 3D reference size. With a few exceptions, the general guidance in such cases is to proceed with the registration process while documenting the issue. In case your tissue sample is missing metadata or there is another issue that you would like to report, follow the procedure below: 
 
-1. Open <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0faIih0S-1zqn5FCdalCF7YTxK7ECMgg0svVv0dvlEF7gKQ/viewform">this Google Form</a> and follow the required steps. Based on the nature of your issue, the Form will either grant you an exemption from registration or ask you to document the caveat and proceed.
+Open <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0faIih0S-1zqn5FCdalCF7YTxK7ECMgg0svVv0dvlEF7gKQ/viewform">this Google Form</a> and follow the required steps. Based on the nature of your issue, the Form will either grant you an exemption from registration or ask you to document the caveat and proceed.
 
 ### Best Practices
 Below is a list of best practices to ensure that the spatial registration process goes smoothly and the likelihood of errors is minimized:

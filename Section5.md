@@ -18,7 +18,7 @@ This section decribes setting up the submissions directory. Most steps in this s
 **Next steps for non-Clinical (most) assays.** This includes ANY assay type _except_ the specific clinical types listed below.
 
 <mdit>
-2. **Assay-specific directory schema.** Access via GitHub link (e.g., <a href="https://software.docs.hubmapconsortium.org/assays/codex">CODEX example</a>) or <a href="https://software.docs.hubmapconsortium.org/metadata">HuBMAP metadata specifications</a> in the portal.
+2. **Assay-specific directory schema.** Access via GitHub link (e.g., <a href="https://docs.hubmapconsortium.org/assays/codex">CODEX example</a>) or <a href="https://docs.hubmapconsortium.org/metadata">HuBMAP metadata specifications</a> in the portal.
 3. **Organize the dataset components** (i.e., data and metadata files) in a submission directory according to the required directory structure specified in the GitHub page for the assay (e.g., <a href="https://github.com/hubmapconsortium/ingest-validation-tools/tree/main/docs/codex">CODEX directory structure</a>).
 </mdit>
 <span class="txt--highlight"> 

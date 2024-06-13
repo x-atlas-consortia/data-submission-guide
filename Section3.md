@@ -12,7 +12,7 @@ Click the provided links in this section to access additional relevant informati
   <ul>
     <li> Download and complete Excel metadata template(s) for sample types:</li>
     <ul> 
-      <li> <a href="https://software.docs.hubmapconsortium.org/metadata">Schema Guidelines</a></li>
+      <li> <a href="https://docs.hubmapconsortium.org/metadata">Schema Guidelines</a></li>
     </ul>
     <li> Click on any assay or sample type on the lists to jump to a page for that type. </li> 
     <ul>

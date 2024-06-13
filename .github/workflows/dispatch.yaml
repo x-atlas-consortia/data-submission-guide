@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        repo: ["sennetconsortium/documentation"]
+        repo: ["sennetconsortium/documentation", "hubmapconsortium/documentation"]
     timeout-minutes: 5
     steps:
       - name: Dispatch to workflows

@@ -35,3 +35,21 @@ These forms will include at least the following for HuBMAP projects:
 10. **SRA processes the data:** SRA processes the sequence data and metadata and notifies dbGaP and the submitters.
 11. **Human sequence data:** Distributed through Authorized Access upon dbGaP release of the study. <br>
 <b>IMPORTANT:</b> This process can take <em>an additional 6-8 weeks</em>.
+<br>
+
+**Updating an existing dbGaP study**
+
+Making any additions or deletions to the data in a published dbGaP study require creating a new version of the study. Note, the previous version of the study will no longer be available for download after the new version has been released. 
+   - For edits to the Study Config page text <i>only</i>, contact the assigned dbGaP curator directly.
+
+**All datasets from the same data provider and consortium should be submitted to the same study.** For any questions regarding this, please contact the <a href="mailto:help@hubmapconsortium.org"> HuBMAP Helpdesk</a> or <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>.
+
+Verify that all of the datasets for the new version have been published on the portal, then complete the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#sdogloss">Study Data Outline</a> in the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#spgloss">dbGaP Submission Portal</a>. 
+
+After the version is created, your GPA will be notified and should complete the registration in the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#ssgloss">dbGaP Submission System</a>. Send any consent changes and/or Acknowledgment Statement changes to the GPA.
+
+Update the Study Config to include information about all versions of the study (not only the new version), and notify the <a href="mailto:help@hubmapconsortium.org"> HuBMAP Helpdesk</a> or <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when it is complete. From this point, the HIVE dbGaP team will work with the data provider to identify changes in the data, and to create and upload required files and data.
+
+For additional information, including how version and participant set numbers are determined, see the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aSRA">dbGaP Data Submission Guide > dbGaP Versions > #30 > steps 1-3.2</a>.
+
+

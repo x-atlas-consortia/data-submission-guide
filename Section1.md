@@ -12,7 +12,7 @@ _Register as a member, which includes requesting access to resources, completing
        - These are separate from the HuBMAP and SenNet Consortium websites.
      - <a href="https://www.globus.org/">Globus</a>
        - **IMPORTANT!**
-           - Your Globus ID must be either an institutional ID or an <a href="https://www.era.nih.gov/"> eRA Commons </a> ID.
+           - Your Globus ID must be an institutional ID. **Note:** eRA Commons IDs  are no longer acceptable.
            - <a href="https://docs.globus.org/how-to/link-to-existing/">Check that your institution ID is linked</a> to your Globus ID.
            - See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.
      - _Write_ access to your team's Globus folder

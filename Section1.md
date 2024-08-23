@@ -13,6 +13,7 @@ _Register as a member, which includes requesting access to resources, completing
      - <a href="https://www.globus.org/">Globus</a>
        - **IMPORTANT!**
            - Your Globus ID must be an institutional ID. **Note:** eRA Commons IDs  are no longer acceptable.
+             - When registering for HuMBAP or SenNet, if your institution does _NOT_ appear in the dropdown on this page: app.globus.org, contact the Helpdesk and request a sponsored Pitt (University of Pittsburgh) account.
            - <a href="https://docs.globus.org/how-to/link-to-existing/">Check that your institution ID is linked</a> to your Globus ID.
            - See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.
      - _Write_ access to your team's Globus folder

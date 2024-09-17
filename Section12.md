@@ -14,10 +14,9 @@ After the registration of a dbGaP study by a data provider, the submission of da
    - The data provider PI adds the data submitters to the dbGaP study on the <a href="https://submit.ncbi.nlm.nih.gov/dbgap/">NCBI dbGaP submission portal.</a>
     <br><strong>NOTE: </strong>This is distinct from the dbGaP Submission system identified in step 2, above.
 5. **Submission Portal Questionnaire:** The Data Provider PI (or their designated data submitter) completes this on the NCBI dbGaP submission portal for the registered study (step 2 above).
-6. **Required submission forms** (see list below): Following the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#astart">dbGaP instructions</a>, the data submitters download the <a href=" https://ftp.ncbi.nlm.nih.gov/dbgap/dbGaP_Submission_Guide_Templates/">dbGaP Submission Guide Templates</a> 
-and work together to complete these forms. Gather and complete ALL files BEFORE submitting. 
+6. **Required submission forms** (see list below): Following the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#astart">dbGaP instructions</a>, the data submitters work together to complete the <a href=" https://ftp.ncbi.nlm.nih.gov/dbgap/dbGaP_Submission_Guide_Templates/">dbGaP Submission Guide Templates</a>. Gather and complete ALL files BEFORE submitting. 
 These forms will include at least the following for HuBMAP projects: 
-    - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aconfig">Study Config</a>: To be completed by designated data submitter.
+    - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aconfig">Study Config</a>: To be completed by designated data submitter (online web form).
     - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asc">Subject Consent DS & DD</a>: To be completed by the HIVE or CODCC data submitter. (DS = Dataset, DD = Data Dictionary)
     - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#assm">Subject Sample Mapping DS & DD</a>: To be completed by the HIVE data submitter.
     - <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#asampattr"> Sample Attributes DS & DD</a>: To be completed by the HIVE data submitter. 
@@ -31,9 +30,10 @@ These forms will include at least the following for HuBMAP projects:
 
 7. **Review <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#16-how-do-i-verify-that-my-ds-an">checklist</a>, submit forms:** The HIVE (or CODCC) data submitter reviews the checklist to ensure that the Phenotype Datasets and Data dictionary files pass the dbGaP quality control tests. Then the HIVE (or CODCC) data submitter submits all required forms.
 8. **dbGaP contacts submitters:** dbGaP Phenotype curator contacts the submitters when the above information has been loaded into dbGaP and entities have received NCBI BioSample and SRA IDs.
-9. **Upload sequence metadata:** The HIVE (or CODCC) data submitter follows directions to <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#20-how-do-i-submit-files-for-hig">upload sequencing metadata</a> and to <a href=" https://www.ncbi.nlm.nih.gov/sra/docs/submitdbgap/">submit raw sequence reads</a>, working with an SRA curator, to upload to a protected area of SRA.
-10. **SRA processes the data:** SRA processes the sequence data and metadata and notifies dbGaP and the submitters.
-11. **Human sequence data:** Distributed through Authorized Access upon dbGaP release of the study. <br>
+9. **Upload sequence metadata:** The HIVE (or CODCC) data submitter follows instructions to <a href=" https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#20-how-do-i-submit-files-for-hig">upload sequencing metadata</a>.
+10. **Upload raw sequence reads** After validation of the sequence metadata, the HIVE (or CODCC) data submitter works with a SRA curator to upload <a href=" https://www.ncbi.nlm.nih.gov/sra/docs/submitdbgap/">raw sequence reads</a> to a protected area of SRA.
+11. **SRA processes the data:** SRA processes the sequence data and metadata and notifies dbGaP and the submitters. 
+12. **Human sequence data:** Distributed through Authorized Access upon dbGaP release of the study. <br>
 <b>IMPORTANT:</b> This process can take <em>an additional 6-8 weeks</em>.
 <br>
 

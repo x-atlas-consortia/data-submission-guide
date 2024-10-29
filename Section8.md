@@ -27,6 +27,12 @@ This section describes the basic steps needed to create an upload directory to s
          </ul>
      <li><b>Complete the required fields</b> - Select a title that both you and the HIVE or CODCC can use to recognize the data upload. </li>
      <li><b>Click "Create"</b> - This creates a Globus folder where you upload your dataset files. </li>
+     <li><b>Setting up an upload directory</b> - Upload directories have several required components. At minimum, three parts are necessary: </li>
+         <ul>
+           <li><b>An assay metadata file</b> ending in "metadata.tsv" that has been validated using the <a href="https://metadatavalidator.metadatacenter.org/">HuBMAP Metadata Spreadsheet Validator</a>. A list of supported assays can be found <a href="https://docs.hubmapconsortium.org/metadata">here</a>.</li>
+           <li><b>A contributors metadata file</b> ending with a title of "contributors.tsv" that has been validated using the <a href="https://metadatavalidator.metadatacenter.org/">HuBMAP Metadata Spreadsheet Validator</a>. The contributors metadata template can be found <a href="https://hubmapconsortium.github.io/ingest-validation-tools/contributors/current/">here</a>.</li>
+           <li><b>Data files required by the assay's directory schema.</b> A list of supported assays can be found <a href="https://docs.hubmapconsortium.org/metadata">here</a>. Each dataset should have a corresponding subdirectory containing all the files in the directory schema. Each row of the metadata file should reference one of these subdirectories via the data_path field.</li>
+         </ul>
      <li><b>Need to add or modify files?</b> - Follow the highlighted Globus link. </li>
         <ul>
             <li><b>Save:</b>  To make changes to the <em>Title</em> or <em>Description</em> fields use the <b>Save</b> button.</li>

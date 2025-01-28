@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Section 9 - Clinical Human Data Submission
+## Section 9 - Clinical Human Metadata
 
 **Submitting Donor or Source Data**
 

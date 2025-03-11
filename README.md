@@ -8,6 +8,7 @@ Updating and maintaining this content is simply a matter of updating the relevan
 
 **Note:** Changes to the content for each section are made to the markdown (MD) files in the DSG repository in GitHub's x-atlas-consortia, as described above.
 - If the title of any section is modified this will NOT automatically update in the DSG's Table of Contents (TOC).
-- To update the TOC, update the "en.json" file located here: https://github.com/hubmapconsortium/documentation/blob/main/docs/lang/en.json
+  - To update the TOC for HuBMAP, update the "en.json" file located here: https://github.com/hubmapconsortium/documentation/blob/main/docs/lang/en.json
+  - To update the TOC for SenNet, update the "en.json" file located here: https://github.com/sennetconsortium/documentation/blob/main/docs/lang/en.json
 - Take care to only modify the name of the relevant section(s), without making other changes to the JSON file.
 - Save the changes and complete a PR/merge to update the TOC as needed.

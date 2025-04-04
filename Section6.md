@@ -9,7 +9,7 @@ Click the provided links in this section to access additional relevant informati
 **Create metadata files.** Download and complete the latest version of each required metadata template:
   - assay-specific
   - <a href="https://hubmapconsortium.github.io/ingest-validation-tools/contributors/current/">contributors</a>
-  - <a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/">antibodies</a> (if relevant) 
+  - <a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/current/">antibodies</a> (if relevant) 
   
   Lists of assay-specific templates are available from the HuBMAP consortium’s <a href="https://hubmapconsortium.github.io/ingest-validation-tools/">Data Upload Guidelines</a> page.
   
@@ -23,7 +23,7 @@ Click the provided links in this section to access additional relevant informati
    - Lists the names, institutions, and ORCID ID's of contributors to the dataset.
    - If _ALL_ datasets listed in your assay metadata use the same set of contributors, you may submit just one contributors file.
    - Point to the file in the <em>contributors_path</em> field for the corresponding datasets.
-3. **<a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/"> Antibodies template</a>** 
+3. **<a href="https://hubmapconsortium.github.io/ingest-validation-tools/antibodies/current/"> Antibodies template</a>** 
    - Required for all assays that use antibodies.
    - If _ALL_ datasets in your assay metadata use the same set of antibodies, you may submit just one <em>antibodies</em> file.
      

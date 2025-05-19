@@ -10,5 +10,7 @@ Links to additional related portals, sites, and other resources are also provide
 
 - Use the _Table of Contents_ to jump to a section of interest. <br>
 
-## Information on [EPICs](https://docs.hubmapconsortium.org/EPICs/) and [EPIC upload requirements](https://docs.hubmapconsortium.org/EPICs/#minimum-upload-requirements).
+<hr />
+
+### Information on [EPICs](https://docs.hubmapconsortium.org/EPICs/) and [EPIC upload requirements](https://docs.hubmapconsortium.org/EPICs/#minimum-upload-requirements).
   

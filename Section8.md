@@ -47,9 +47,10 @@ This section describes the basic steps needed to create an upload directory to s
 EPICs (Externally Processed Integrative Collections) allow data providers to upload non-HIVE biological interpretations to the HIVE for publication on the HuBMAP Data Sharing Portal. 
 <ul>
    <li>The process for submitting EPICs to the HIVE is similar to the process above. </li>
+   <li>See an <a href="https://docs.hubmapconsortium.org/EPICs/">overview of EPICs</a> with more information about uploading data for EPICs.</li>
    <li>Metadata and directory schemas can be found on the schema documentation under <a href="https://docs.hubmapconsortium.org/metadata">EPICs</a>. </li>
    <li>However, EPICs may have additional files that need to be uploaded, such as objects-by-feature matrices for Segmentation Masks.</li> 
-   <li>These details are documented on the relevant schema pages.</li>
+   <li>These details are documented on the <a href="https://hubmapconsortium.github.io/ingest-validation-tools/segmentation-mask/current/">relevant schema pages</a>.</li>
 </ul>
 
 <span class="txt--highlight">This section is for Clinical Assays only:</span>

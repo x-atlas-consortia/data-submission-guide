@@ -14,3 +14,6 @@ Links to additional related portals, sites, and other resources are also provide
 
 ### Information on [EPICs](https://docs.hubmapconsortium.org/EPICs/) and [EPIC upload requirements](https://docs.hubmapconsortium.org/EPICs/#minimum-upload-requirements).
   
+<hr />
+
+### Information on [Pass Through Dataset Types](https://docs.hubmapconsortium.org/pass-thrus/)

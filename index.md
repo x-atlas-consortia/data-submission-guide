@@ -18,3 +18,7 @@ Links to additional related portals, sites, and other resources are also provide
 <hr />
 
 ### Information on [Pass Through Dataset Types](https://docs.hubmapconsortium.org/pass-thrus/)
+
+<hr />
+
+### Information on [Publication Page Submission](https://docs.hubmapconsortium.org/Publications/)

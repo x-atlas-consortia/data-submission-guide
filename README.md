@@ -14,7 +14,7 @@ Updating and maintaining this content is simply a matter of updating the relevan
 - Save the changes and complete a PR/merge to update the TOC as needed.
 
 ## Content Editor
-To make certain content show up in either SenNet or HuBMAP, use `sn-only` or `hm-only` css classes respectively.
+To make certain content show up in either SenNet or HuBMAP documentation site, use `sn-only` or `hm-only` css classes respectively.
 
 Examples:
 - Paragraphs: `<p class="hm-only">Text here shows up in HuBMAP only</p>`

@@ -12,3 +12,13 @@ Updating and maintaining this content is simply a matter of updating the relevan
   - To update the TOC for SenNet, update the "en.json" file located here: https://github.com/sennetconsortium/documentation/blob/main/docs/lang/en.json
 - Take care to only modify the name of the relevant section(s), without making other changes to the JSON file.
 - Save the changes and complete a PR/merge to update the TOC as needed.
+
+## Content Editor
+To make certain content show up in either SenNet or HuBMAP, use `sn-only` or `hm-only` css classes respectively.
+
+Examples:
+- Paragraphs: `<p class="hm-only">Text here shows up in HuBMAP only</p>`
+- Links: `<a href="url" class="btn sn-only">Button Text for SenNet only</a>`
+- Divs: `<div class="sn-only">...Markdown content for SenNet only...</div>`
+- Markdown header `## SenNet only Header {: .sn-only}`
+- Markdown link `[HuBMAP Link Text](url){.hm-omly}`

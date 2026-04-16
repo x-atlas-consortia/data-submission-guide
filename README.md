@@ -21,4 +21,4 @@ Examples:
 - Links: `<a href="url" class="btn sn-only">Button Text for SenNet only</a>`
 - Divs: `<div class="sn-only">...Markdown content for SenNet only...</div>`
 - Markdown header `## SenNet only Header {: .sn-only}`
-- Markdown link `[HuBMAP Link Text](url){.hm-omly}`
+- Markdown link `[HuBMAP Link Text](url){.hm-only}`

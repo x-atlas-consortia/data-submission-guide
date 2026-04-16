@@ -7,13 +7,13 @@ Complete the prerequisites listed below prior to registering donors and samples 
 Click the provided links in this section to go to related portals or websites, or to access additional relevant information.
 
 _Register as a member, which includes requesting access to resources, completing any required agreements, and verifying your access._
-  1. **Request access to portals** (or other resources you will need):
-     - <a href="http://portal.hubmapconsortium.org">HuBMAP Data portal</a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal</a>
-       - These are separate from the HuBMAP and SenNet Consortium websites.
+  1. **Request access to the portal** (or other resources you will need):
+     - <a class="display--hubmap" href="http://portal.hubmapconsortium.org">HuBMAP Data portal</a> <a class="display--sennet" href="http://data.sennetconsortium.org">SenNet Data Sharing Portal</a>
+       - This is separate from the <span class="display--hubmap">HuBMAP</span> <span class="display--sennet">SenNet</span> Consortium website.
      - <a href="https://www.globus.org/">Globus</a>
        - **IMPORTANT!**
            - Your Globus ID must be an institutional ID. **Note:** eRA Commons IDs  are no longer acceptable.
-             - When registering for HuMBAP or SenNet, if your institution does _NOT_ appear in the dropdown on this page: app.globus.org, contact the Helpdesk and request a sponsored Pitt (University of Pittsburgh) account.
+             - When registering for <span class="display--hubmap">HuBMAP</span> <span class="display--sennet">SenNet</span>, if your institution does _NOT_ appear in the dropdown on this page: app.globus.org, contact the Helpdesk and request a sponsored Pitt (University of Pittsburgh) account.
            - <a href="https://docs.globus.org/how-to/link-to-existing/">Check that your institution ID is linked</a> to your Globus ID.
            - See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.
      - _Write_ access to your team's Globus folder

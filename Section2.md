@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Section 2 - Register Data Sources
-Directions for registering donors (in HuBMAP), sources (in SenNet), and organs or samples that derive from those donors or sources. **NOTE:** Both consortia strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
+Directions for registering <span class="hm-only">donors</span><span class="sn-only">sources</span>, and organs or samples that derive from those donors or sources. **NOTE:** The consortia strongly recommends that you collect <span class="hm-only">donor</span><span class="sn-only">source</span>information when you get the organ and sample, well before you begin actual preparations to submit data.
 
 ### Register a donor or source
 <ul>
@@ -13,14 +13,14 @@ Directions for registering donors (in HuBMAP), sources (in SenNet), and organs o
   <li><b>Search for the donor or source:</b> Verify that the donor or source has not already been registered.</li>
   <li><b>From the Navigation bar select:</b></li>
   <ul>
-    <li class="hm-only">In HuBMAP: <b>REGISTER NEW > INDIVIDUAL > Donor</b></li>
-    <li class="sn-only">In SenNet: <b>Create an Entity > Source</b></li>
+    <li class="hm-only"><b>REGISTER NEW > INDIVIDUAL > Donor</b></li>
+    <li class="sn-only"><b>Create an Entity > Source</b></li>
   </ul>
   <li><b>Record donor or source information.</b> Do <em>NOT</em> include <a href="https://ingest.hubmapconsortium.org/new/donor">protected health information</a> about a donor or source, organ, or specimen.</li>
   <li><b>Complete registration of the Donor or source:</b></li>
      <ul>
-       <li>In HuBMAP click <b>Generate ID</b> to complete the registration process.</li>
-       <li>In SenNet click <b>Submit</b> to complete the registration process.</li>
+       <li class="hm-only">Click <b>Generate ID</b> to complete the registration process.</li>
+       <li class="sn-only">Click <b>Submit</b> to complete the registration process.</li>
      </ul>
   </ol>
 

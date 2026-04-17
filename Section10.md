@@ -48,7 +48,7 @@ _Prerequisites_
 
 **NOTE:** Multiple sets of data can be uploaded and the same data set _could_ be uploaded more than once. Each data upload is assigned a UUID (universally unique identifier), but not a version number, until it has completed the entire data ingest, validation, and approval process and is published.
 
-1. **Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a>** OR **<a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>** once all the files associated with an upload have been uploaded. This lets them know that the upload is ready for ingestion (not an automated process).
+1. **Email the <a href="mailto:help@hubmapconsortium.org" class="hm-only">HuBMAP Helpdesk</a>** **<a href="mailto:help@sennetconsortium.org" class="sn-only">SenNet Helpdesk</a>** once all the files associated with an upload have been uploaded. This lets them know that the upload is ready for ingestion (not an automated process).
 
      **IMPORTANT:** Include the _root path(s)_ of the specific data upload(s) in the email. 
 

@@ -14,4 +14,4 @@ layout: default
   - **Correct any errors.** Repeat until no errors occur.
   - A successful validation run will end with a **"No errors!"** message.
 
-Contact the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> for assistance with _persistent_ errors.
+Contact the <a class="hm-only" href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a><a class="sn-only" href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> for assistance with _persistent_ errors.

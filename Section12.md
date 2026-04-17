@@ -9,7 +9,7 @@ After the registration of a dbGaP study by a data provider, the submission of da
 1. **Identify an NIH GPA:** The Data Provider PI works with their Program Officer to identify an NIH Genomic Program Administrator (GPA) who will help them prepare a study for dbGaP following the [process outlined here](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap). 
 2. **Register dbGaP study / create Bioproject:** The Data Provider PI and NIH GPA register a study in the [dbGaP Submission System](https://dbgap.ncbi.nlm.nih.gov/dbgap/ss/dbgapss.cgi?login) and create a Bioproject for the study. This step should be done by the data provider as early as possible, ideally before any data are generated. When establishing a dbGaP study, please ensure the title of the study starts with "HuBMAP" or "SenNet", as appropriate. For example: "HuBMAP: A Spatially Resolved Molecular Atlas of Human Endothelium". See this [example](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249.v2.p1) of a HuBMAP dbGaP study.
 4. **Designate Data Submitters:** The data provider PI or PM identifies a team member to serve in this capacity.
-   - This person contacts the HIVE (or CODCC) via the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> (or <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>).
+   - This person contacts the HIVE (or CODCC) via the <a href="mailto:help@hubmapconsortium.org" class="hm-only">HuBMAP Helpdesk</a> <a href="mailto:help@sennetconsortium.org" class="sn-only">SenNet Helpdesk</a>.
    - The HIVE (or CODCC) identifies a HIVE (or CODCC) data submitter to work with the team member on the dbGap data submission.
    - The data provider PI adds the data submitters to the dbGaP study on the <a href="https://submit.ncbi.nlm.nih.gov/dbgap/">NCBI dbGaP submission portal.</a>
     <br><strong>NOTE: </strong>This is distinct from the dbGaP Submission system identified in step 2, above.
@@ -42,13 +42,13 @@ These forms will include at least the following for HuBMAP projects:
 Making any additions or deletions to the data in a published dbGaP study require creating a new version of the study. Note, the previous version of the study will no longer be available for download after the new version has been released. 
    - For edits to the Study Config page text <i>only</i>, contact the assigned dbGaP curator directly.
 
-**All datasets from the same data provider and consortium should be submitted to the same study.** For any questions regarding this, please contact the <a href="mailto:help@hubmapconsortium.org"> HuBMAP Helpdesk</a> or <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a>.
+**All datasets from the same data provider and consortium should be submitted to the same study.** For any questions regarding this, please contact the <a href="mailto:help@hubmapconsortium.org" class="hm-only"> HuBMAP Helpdesk</a> <a href="mailto:help@sennetconsortium.org" class="sn-only">SenNet Helpdesk</a>.
 
 Verify that all of the datasets for the new version have been published on the portal, then complete the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#sdogloss">Study Data Outline</a> in the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#spgloss">dbGaP Submission Portal</a>. 
 
 After the version is created, your GPA will be notified and should complete the registration in the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#ssgloss">dbGaP Submission System</a>. Send any consent changes and/or Acknowledgment Statement changes to the GPA.
 
-Update the Study Config to include information about all versions of the study (not only the new version), and notify the <a href="mailto:help@hubmapconsortium.org"> HuBMAP Helpdesk</a> or <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when it is complete. From this point, the HIVE dbGaP team will work with the data provider to identify changes in the data, and to create and upload required files and data.
+Update the Study Config to include information about all versions of the study (not only the new version), and notify the <a href="mailto:help@hubmapconsortium.org" class="hm-only"> HuBMAP Helpdesk</a> <a href="mailto:help@sennetconsortium.org" class="sn-only">SenNet Helpdesk</a> when it is complete. From this point, the HIVE dbGaP team will work with the data provider to identify changes in the data, and to create and upload required files and data.
 
 For additional information, including how version and participant set numbers are determined, see the <a href="https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/#aSRA">dbGaP Data Submission Guide > dbGaP Versions > #30 > steps 1-3.2</a>.
 

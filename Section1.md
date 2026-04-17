@@ -17,10 +17,10 @@ _Register as a member, which includes requesting access to resources, completing
            - <a href="https://docs.globus.org/how-to/link-to-existing/">Check that your institution ID is linked</a> to your Globus ID.
            - See also Globus' <a href="https://docs.globus.org/how-to/">How To</a> & <a href="https://docs.globus.org/faq/">FAQs</a> for more information.
      - _Write_ access to your team's Globus folder
-       - This will be granted <em>after</em> confirming that you will submit data via the<a href="http://ingest.hubmapconsortium.org/"> HuBMAP ingest portal </a> OR <a href="http://data.sennetconsortium.org">SenNet Data Sharing Portal </a> (required).
+       - This will be granted <em>after</em> confirming that you will submit data via the<a href="http://ingest.hubmapconsortium.org/" class="hm-only"> HuBMAP ingest portal </a> <a href="http://data.sennetconsortium.org" class="sn-only">SenNet Data Sharing Portal </a> (required).
      - <a href="http://protocols.io">Protocols.io</a>
-       - <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a> (required for HuBMAP).
-       - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a> (required for SenNet).
+       - {.hm-only} <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a> (required for HuBMAP).
+       - {.sn-only} <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a> (required for SenNet).
        - Provide your protocols.io email account if you will be creating protocols for your team.
      - NIH's <a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login">dbGaP </a>- For sequencing data, if applicable.
          - Sequencing data will be submitted here after your data is published.
@@ -29,8 +29,8 @@ _Register as a member, which includes requesting access to resources, completing
      - <a href="https://hubmapconsortium.org/wp-content/uploads/2020/06/DUA_FINAL_2020_02_03_for_Signature.pdf">Data use</a> and <a href="https://hubmapconsortium.org/wp-content/uploads/2020/08/MTA.pdf">material transfer</a> agreements.
      - See also the <em>Onboarding Checklist</em> in the <a href="https://docs.google.com/document/d/1ew6erXdwt38b8reiiH38NUeab4TD5ot-nv59M444j0Y/edit#heading=h.ym9gyx39h7t3">HuBMAP New User Guide</a>.
   3. **Complete onboarding for your consortium.**
-      - Register as a HuBMAP or SenNet member.
-      - Verify that you can successfully login to the <a href="https://hubmapconsortium.org/"> HuBMAP Consortium</a> or <a href="https://sennetconsortium.org/"> SenNet Consortium</a> website.
+      - Register as a <span class="hm-only">HuBMAP</span> <span class="sn-only">SenNet</span> member.
+      - Verify that you can successfully login to the <a href="https://hubmapconsortium.org/" class="hm-only"> HuBMAP Consortium</a> <a href="https://sennetconsortium.org/" class="sn-only"> SenNet Consortium</a> website.
 
   _Register experimental protocols for your group:_
         
@@ -44,12 +44,12 @@ _Register as a member, which includes requesting access to resources, completing
           - See this Vanderbilt protocol as an example: <a href="https://dx.doi.org/10.17504/protocols.io.bfskjncw">VU BIOMIC Kidney pipeline</a>
       - **Create / Publish a New protocol**
           - Use a template, many templates are available.
-          - Include HuBMAP (or SenNet) and team name as keywords.
+          - Include <span class="hm-only">HuBMAP</span> <span class="sn-only">SenNet</span> and team name as keywords.
           - Publish the protocol.
           - Pick the DOI option when publishing.
           - For additional examples, see also:
-            - <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a>
-            - <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a>
+            - {.hm-only} <a href="https://www.protocols.io/workspaces/human-biomolecular-atlas-program-hubmap-method-development">HuBMAP Method Development Community</a>
+            - {.sn-only} <a href="https://www.protocols.io/workspaces/cellular-senescence-network-sennet-method-develo">SenNet Method Development Community</a>
        - **Modify an existing protocol**
           - Open an existing protocol.
           - Use _Edit New Version_ or _Edit New Fork_.
@@ -75,8 +75,8 @@ _Register as a member, which includes requesting access to resources, completing
 
 1. **Log into protocols.io** Using your protocols.io login registered with your consortium.
 2. **Select your Workspace:**
-   - Click the HuBMAP icon for the HuBMAP Workspace
-   - Click the SenNet icon for the SenNet Workspace
+   - {.hm-only} Click the HuBMAP icon for the HuBMAP Workspace
+   - {.sn-only} Click the SenNet icon for the SenNet Workspace
    - If you do not see your icon you have not been added to the group - Contact your helpdesk for assistance.
 3. **Click the NEW + button** at the top and select **New protocol**.
 4. **Select a template option:**
@@ -98,14 +98,14 @@ _Register as a member, which includes requesting access to resources, completing
 
 ### Publishing your new protocol:
 
-1. **Publish type** - select **With DOI**. <br> **IMPORTANT:** HuBMAP and SenNet protocols MUST be assigned a DOI.
+1. **Publish type** - select **With DOI**. <br> **IMPORTANT:** <span class="sn-only">HuBMAP</span> <span class="sn-only">SenNet</span> protocols MUST be assigned a DOI.
     - This is required to register a donor (or source) and samples.
     - This is required to submit assay metadata to the HIVE or CODCC.
 2. **Set authors** - Multiple authors may be added in order of importance.
    - You can drag-and-drop authors to reorder.
 3. **Status** - Select _Working, In Development,_ or _Other_.
 4. **Research study** - Select _Research_ (most likely) or _Non-Research_.
-5. **Add workspaces** - _Show_ and _Share_ the protocol on the HuBMAP (or SenNet) Workspace.
+5. **Add workspaces** - _Show_ and _Share_ the protocol on the <span class="hm-only">HuBMAP</span> <span class="sn-only">SenNet</span> Workspace.
    - You can also show or share the protocol on any other workspace, if desired.
 6. **Publish** - Publish the protocol.
 </details>

@@ -52,10 +52,10 @@ Follow the steps outlined below to validate any metadata spreadsheet (except Don
   5. **Hover the mouse cursor** over the **"Download" button**, then select **TSV format**.
   6. **Need to validate more templates?**  Repeat steps **1 - 4** (above) to validate additional metadata spreadsheets.
   7. **Upload validated TSVs:**
-     - HuBMAP:
+     - HuBMAP: {.hm-only}
          - Send validated (organ or sample) metadata TSV files to the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a>
          - The Helpdesk will manually validate and upload the files.
-      - SenNet:
+      - SenNet: {.sn-only}
          - Use the <em>Upload Metadata</em> dropdown from the <em>Navigation Bar</em> in the <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing portal</a>
          - Select the type of metadata: (<em>Mouse</em> or <em>Organ, Block, Section,</em> or <em>Suspension</em> — sample types).
 

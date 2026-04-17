@@ -8,12 +8,12 @@ This section describes the basic steps needed to create an upload directory to s
 <ol>
     <li> <b>Getting started</b> </li> 
         <ul>
-            <li>HuBMAP members:</li>
+            <li class="hm-only">HuBMAP members:</li>
               <ul>
               <li>On the <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a></li>
               <li>Register a single donor, sample, dataset, or publication or bulk register samples or data.</li> 
               </ul>
-            <li>SenNet members: </li>
+            <li class="sn-only">SenNet members: </li>
               <ul>
               <li>On the <a href="http://data.sennetconsortium.org/search">SenNet Data Sharing portal</a></li> 
               <li>Register a single source, sample, dataset, or publication or bulk register samples or data.</li>
@@ -21,8 +21,8 @@ This section describes the basic steps needed to create an upload directory to s
           </ul>
     <li><b>From the Navigation bar:</b></li>
         <ul>
-           <li>HuBMAP members select <b>REGISTER NEW > BULK  > Data </b></li>
-           <li>SenNet members select: <b>Create an Entity > Data </b></li> 
+           <li class="hm-only">Select <b>REGISTER NEW > BULK  > Data </b></li>
+           <li class="sn-only">Select <b>Create an Entity > Data </b></li> 
            <li>This action initiates the data upload process.</li>
          </ul>
      <li><b>Complete the required fields</b> - Select a title that both you and the HIVE or CODCC can use to recognize the data upload. </li>
@@ -56,7 +56,7 @@ EPICs (Externally Processed Integrative Collections) allow data providers to upl
 <span class="txt--highlight">This section is for Clinical Assays only:</span>
 
 <ol>
-    <li> <b>Email the <a href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a> OR <a href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</b></li>
+    <li> <b>Email the <a class="hm-only" href="mailto:help@hubmapconsortium.org">HuBMAP Helpdesk</a><a class="sn-only" href="mailto:help@sennetconsortium.org">SenNet Helpdesk</a> when ready to upload.</b></li>
     <ul>
         <li> Be sure to use an institutional email address (e.g. <em>name@institution.edu).</em></li>
         <li> The Help desk relays this request for space on the protected endpoint to the Pitt team.</li>

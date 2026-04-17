@@ -6,8 +6,9 @@ layout: default
 Directions for registering donors (in HuBMAP), sources (in SenNet), and organs or samples that derive from those donors or sources. **NOTE:** Both consortia strongly recommend that you collect donor or source information when you get the organ and sample, well before you begin actual preparations to submit data.
 
 ### Register a donor or source
-  - **Register a donor** via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. A <em>donor</em> in HuBMAP is an individual from which organs and samples originate.
-  - **Register a source** via <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing Portal</a>. A <em>source</em> in SenNet is the organism being studied.
+<ul>
+  <li class="hm-only"><strong>Register a donor</strong> via <a href="http://ingest.hubmapconsortium.org">HuBMAP ingest portal</a>. A <em>donor</em> in HuBMAP is an individual from which organs and samples originate.</li>
+  <li class="sn-only"><strong>Register a source</strong> via <a href="https://data.sennetconsortium.org/search">SenNet Data Sharing Portal</a>. A <em>source</em> in SenNet is the organism being studied.</li></ul>
   <ol>
   <li><b>Search for the donor or source:</b> Verify that the donor or source has not already been registered.</li>
   <li><b>From the Navigation bar select:</b></li>
@@ -30,12 +31,14 @@ In addition to <em>organ</em> there are 3 sample types: <em>Block, Section,</em>
   <ol>
     <li> <b>From the Navigation bar select:</b></li>
     <ul>
+      <div class="hm-only">
       <li>In HuBMAP:</li>
       <ul>
         <li> <b>REGISTER NEW > INDIVIDUAL > Sample</b> (used for both organs and samples).</li>
         <li> For organs - Select <b>Organ</b> from the <em>Tissue Sample Type</em> drop down. </li>
         <li> For samples - Select <b>Block, Section,</b> or <b>Suspension</b> from the <em>Tissue Sample Type</em> drop down</li>
-      </ul>
+      </ul></div>
+      <div class="sn-only">
       <li>In SenNet:</li>
       <ul>
         <li> <b>Create an Entity > Sample</b> (used for both organs and samples).</li>
@@ -45,11 +48,12 @@ In addition to <em>organ</em> there are 3 sample types: <em>Block, Section,</em>
         </ul>
         <li> If <strong>organ</strong> is selected, select the <em>organ type</em> from the dropdown list.</li>
       </ul>
+      </div>
     </ul>
     <li> <b>Record information about the sample.</b> </li>
     <ul> 
-      <li> In HuBMAP, the <em>Source ID</em> field represents the organ or sample’s parent, the donor.</li>
-      <li> In SenNet, the <em>Ancestor ID</em> field represents the organ or sample’s source.</li>
+      <li class="hm-only"> In HuBMAP, the <em>Source ID</em> field represents the organ or sample’s parent, the donor.</li>
+      <li class="sn-only"> In SenNet, the <em>Ancestor ID</em> field represents the organ or sample’s source.</li>
     </ul>
     <li> <b>If the sample is a tissue block, upload a thumbnail image: </b></li>
     <ul> 
@@ -68,8 +72,8 @@ In addition to <em>organ</em> there are 3 sample types: <em>Block, Section,</em>
     </ul>
     <li> <b>Complete registration of the organ or sample</b></li>
     <ul>
-      <li> In HuBMAP click <b>Generate ID</b> to complete the registration process.</li>
-      <li> In SenNet click <b>Submit</b> to complete the registration process.</li>
+      <li class="hm-only"> In HuBMAP click <b>Generate ID</b> to complete the registration process.</li>
+      <li class="sn-only"> In SenNet click <b>Submit</b> to complete the registration process.</li>
       <li> After an organ or sample is registered, the system will confirm the process and assign an ID for the item.</li>
     </ul>
   </ol>

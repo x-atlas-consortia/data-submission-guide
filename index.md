@@ -21,7 +21,7 @@ Before registering a sample or organ, the associated donor or source must be reg
 
 <b>Tissue blocks:</b> If the sample is a tissue block, upload a thumbnail image file using the following naming convention: [block_submission_id].[jpg]. Thumbnails should be 800 x 600 pixels and in JPEG or PNG format. For additional information, see the [Images SOP](https://docs.google.com/document/d/1swtxxF9z8Llnptqk4eNvgDpYUwDrViI78KbRI3b1jXg/edit#heading=h.cd53uti4az4).
 
-# <a id="metadata">Metadata test</a>
+# <a id="metadata">Metadata test2</a>
 
 ## Assay-specific metadata
 [Assay-specific metadata](https://hubmapconsortium.github.io/ingest-validation-tools/current) is required for all datasets. If you have assay data that you plan on uploading, but which is not yet supported, contact the Help Desk. 

@@ -4,7 +4,9 @@ layout: default
 
 # Data Submission Guide
 
-This resource documents the key steps of uploading data to the [SenNet Data Sharing Portal](https://data.sennetconsortium.org/search). While data upload consists of multiple components, it is important to understand that these components can be accomplished simultaneously, which allows data providers to work more efficiently, greatly mitigates delays and results in data being published in a timely manner. Keep in mind that data upload can only be done by registered consortium members. To register, contact the SenNet Help Desk.
+<span class="sn-only">This resource documents the key steps of uploading data to the [SenNet Data Sharing Portal](https://data.sennetconsortium.org/search). While data upload consists of multiple components, it is important to understand that these components can be accomplished simultaneously, which allows data providers to work more efficiently, greatly mitigates delays and results in data being published in a timely manner. Keep in mind that data upload can only be done by registered consortium members. To register, contact the SenNet Help Desk.</span>
+
+<span class="hm-only">This resource documents the key steps of uploading data to the HuBMAP Data Ingest Portal. While data upload consists of multiple components, it is important to understand that these components can be accomplished simultaneously, which allows data providers to work more efficiently, greatly mitigates delays and results in data being published in a timely manner. Keep in mind that data upload can only be done by registered consortium members. To register, contact the HuBMAP Help Desk.</span>
 
 ## Data Upload Components
 
